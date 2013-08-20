@@ -1,0 +1,1001 @@
+﻿DocumentID	Title	Date	Authors
+1	Notes on certain species of Tetragnatha (Araneae, Argiopidae) in Central America and Mexico	1957	Chickering, A M
+2	The genus Tetragnatha (Araneae, Argiopidae) in Jamaica, B.W.I., and other neighboring islands	1957	Chickering, A M
+3	A new Zodariid spider from Panama	1957	Chickering, A M
+4	"Anguimorph" tooth replacement in Amphisbaena alba Linnaeus, 1758, and A. fuliginosa Linnaeus, 1758 (Reptilia: Amphisbaenidae)	1957	Gans, C
+5	Taxonomic notes on the New World forms of Troglodytes	1957	Paynter, R A
+6	Is the ant genus Tetramorium native in North America?	1957	Brown, W L
+7	Additions to the mammalian fauna of Peru and notes on some other Peruvian mammals	1957	Pearson, O P
+8	The discovery of the Cerapachyine ants on New Caledonia, with the description of new species of Phyracaces and Sphinctomyrmex	1957	Wilson, E O
+9	On a new Octochaetine earthworm supposedly from Guatemala	1957	Gates, G E
+10	Two new land and freshwater mollusks from New Guinea	1957-06-18	Clench, William J
+11	Dacetinops, a new ant genus from New Guinea	1957	Brown, W L  | Wilson, E O
+12	The larva of the ant genus Dacetinops Brown and Wilson	1957	Wheeler, G C  | Wheeler, J
+13	Dasypeltis medici Iamuensis, a new race of egg-eating snake (Ophidia, Reptilia) from coastal East Africa	1957	Gans, C
+14	A collection of drawings of fishes ascribed to J.P. Kirtland (1793-1877), in the Library of Bowdoin College	1957	Moulton, J M
+15	Contributions to a revision of the earthworm family Lumbricidae. I. Allolobophora limicola	1957	Gates, G E
+16	The trunk musculature of Sanzina and its bearing on certain aspects of the myological evolution of snakes	1958	Auffenberg, W
+17	Thamnophis bovallii Dunn rediscovered (Reptilia, serpentes)	1958	Shreve, B  | Gans, C
+18	Rediscovery of the Australian chelid genus Pseudemydura siebenrock (Chelidae, Testudines)	1958	Williams, E E
+19	The choanal papillae of the Cheloniidae	1958	Parsons, T S
+20	A new Sicistine rodent from the Miocene of Wyoming	1958	Black, C C
+21	An embolomere jaw from the mid-carboniferous of Nova-Scotia	1958	Romer, A S
+22	An embolomere jaw from the mid-carboniferous of Nova Scotia	1958-06-20	Romer, Alfred Sherwood
+23	A new species of the genus Urotheca (Serpentes: Colubridae) from Venezuela	1958	Roze, J A
+24	Remarks on some forms of Cinclus (Aves)	1958	Greenway, J C  | Vaurie, C
+25	A fossil vampire bat from Cuba	1958	Koopman, K F
+26	Contribution to a revision of the earthworm family Lumbricidae. II. Indian species	1958	Gates, G E
+27	A new genus of erethizontid rodents from the Colhuehuapian of Patagonia	1958	Patterson, B
+28	A new barylambdid pantodont from the late Paleocene	1958	Patterson, B  | Simons, E L
+29	Affinities of the Patagonian fossil mammal necrolestes	1958	Patterson, B
+30	A new Bolivian land snail of the genus Drymaeus	1958	Parodiz, J J
+31	A new dichobunid artiodactyl from the Uinta Eocene	1958	Gazin, C L
+32	Fusion of cervical vertebrae in the Erethizontidae and Dinomyidae	1958	Ray, C E
+33	Two new species of Bathylagus from the western North Atlantic with notes on other species	1958	Cohen, D M
+34	A new subspecies of Chamaeleo Jacksoni Boulenger and a key to the species of three-horned chameleons	1958	Rand, A S
+35	On the pineal organ of the tuna, Thynnus thynnus L	1958	Holmgren, U
+36	Cervical ribs in turtles	1959	Williams, E E
+37	A new Jamaican galliwasp (Sauria, Anguidae)	1959	Underwood, G
+38	Two new species of Eleutherodactylus from Puerto Rico	1959	Rivero, J A
+39	Studies on fishes of the family Ophidiidae. III. A new species of Lepophidium from Barbados	1959	Robins, C R
+40	Bufo Gundlachi, a new species of Cuban toad	1959	Ruibal, R
+41	The occipito-vertebral joint in the burrowing snakes of the family Uropeltidae	1959	Williams, E E
+42	A revision of the dacetine ant genus Neostruma	1959	Brown, W L
+43	Some new species of dacetine ants	1959	Brown, W L
+44	On the caudal neurosecretory system of the teleost fish, Fundulus heteroclitus L	1959	Holmgren, U
+45	A mounted skeleton of the giant plesiosaur Kronosaurus	1959	Romer, A S  | Lewis, A D
+46	A new phyllomedusa from Bolivia (Salientia, Hylidae)	1959	Shreve, Benjamin
+47	A new Phyllomedusa from Bolivia (Salientia, Hylidae)	1959-11-02	Shreve, Benjamin
+48	Anomalophis bolcensis (Massalongo), a new genus of fossil snake from the Italian Eocene	1959	Auffenberg, W
+49	The lemon-colored plexaurids from the West Indies and Brazil	1959	Deichmann, E  | Bayer, F M
+50	Insectivores of the Middle Miocene Split Rock local fauna, Wyoming	1960	Reed, K M
+51	Notes on Hispaniolan Herpetology I. Anolis christophei, new species, from the Citadel of King Christophe, Haiti	1960	Williams, E E
+52	A survey of the Leptodactylid frogs, genus Eupsophus, in Chile	1960	Cei, J M
+53	Two species of tortoises in northern South America	1960	Williams, E E
+54	Anomalina D'orbigny, 1826 (Foraminiferida): Proposed Designation Of A. Ariminensis D'orbigny In Fornasini, 1902 As The Type Species	1997	Revets, Stefan A
+55	Riisea and riisei Duchassaing & Michelotti, 1860 (Cnidaria, Anthozoa): proposed conservation as the correct original spellings of generic and specific names based on the surname Riise	1997	Bayer, F M  | Grasshoff, M
+56	Umbellula Cuvier,[1797] (Cnidaria, Anthozoa): proposed conservation as the correct original spelling, and corrections to the entries relating to Umbellularia Lamarck, 1801 on the Official Lists and Indexes of Names in Zoology	1997	Bayer, F M  | Grasshoff, M
+57	Galba Schrank, 1803 (Mollusca, Gastropoda): Proposed Designation Of Buccinum Truncatulum Muller, 1774 As The Type Species	1997	Starobogatov, Ya I
+58	Roeslerstammia Zeller, 1839 And Acrolepiopsis Gaedike, 1970 (Insecta, Lepidoptera): Proposed Conservation By The Designation Of Alucita Erxlebella Fabricius, 1787 As The Type Species Of Roeslerstammia; And A. Erxlebella And Tinea Imella Huebner, (1813) (Currently Roeslerstammia Erxlebella And Monopis Imella): Proposed Conservation Of The Specific Names By The Designation Of A Neotype For A. Erxlebella	1997	Huemer, Peter
+59	Euchroeus Latreille, 1809 And Chrysis Purpurata Fabricius, 1787 Of Usage; And Chrysis Gloriosa Fabricius, 1793: Proposed Suppression Of The Specific Name	1997	Pavesi, Maurizio  | Strumia, Franco
+60	Case 2920. Diemenia atra Macleay, 1884 (currently Demansia atra; Reptilia, Serpentes): proposed conservation of the specific name	1997	M, Smith Hobart  | Wallach, Van
+61	Trigonocephalus Pulcher Peters, 1863 (Currently Bothrops Pulcher) And Bothrops Albocarinatus Shreve, 1934 (Currently Bothriechis Oligolepis Albocarinatus) (Reptilia, Serpentes): Proposed Conservation Of The Specific And Subspecific Names By The Designation Of A Neotype For T. Pulcher	1997	Schatti, Beat  | Smith, Hobart M
+62	On the proposed conservation of Plumularia Lamarck, 1816 (Cnidaria, Hydrozoa) by the designation of Sertularia setacea Linnaeus, 1758 as the type species	1997	Holthuis, L B
+63	On the proposed conservation of the specific name of Parapronoe crustulum Claus, 1879 (Crustacea, Amphipoda)	1997	Zeidler, W  | Holthuis, L B
+64	On the proposed conservation of the specific names of Aphodius rufus (Moll, 1782), A. foetidus (Herbst, 1783) and Aegialia rufa (Fabricius, 1792) (Insecta, Coleoptera)	1997	Dellacasa, G
+65	On the proposed designation of a replacement neotype for Alcyonidium mytili Dallyell, 1848 (Bryozoa)	1997	D'hondt, J L
+66	On the proposed designation of Atrypa laevis Vanuxem, 1842 as the type species of Meristella Hall, 1859 (Brachiopoda)	1997	Boucot, A J  | Brunton, C H C  | Wright, A D
+67	On the proposed conservation of the specific name of garnotti Dumeril & Bibron, 1836 (Reptilia, Squamata)	1997	Ota, H
+68	On the proposed conservation of some mammal generic names first published in Brisson's (1762) Regnum Animale	1997	Cherem, J J
+69	The timing of voting on applications to the Commission	1997	Tubbs, P K
+70	Acanthoteuthis Wagner In Munster, 1839 And Muensterella Schevill, 1950	1997	
+71	Opinion 1861. Octopus vulgaris Cuvier [1797] and Loligo vulgaris Lamarck, 1798 (Mollusca, Cephalopoda): specific names conserved	1997-03-26	I C Z N
+72	Opinion 1862	1997-03-26	
+73	Opinion 1863	1997-03-26	
+74	Opinion 1864	1997-03-26	
+75	Opinion 1865	1997-03-26	
+76	Opinion 1866	1997-03-26	
+77	Opinion 1867	1997-03-26	
+78	Aporcelaimus Thorne And Swanger, 1936 (Nematoda): Proposed Designation Of Dorylaimus Superbus De Man, 1880 As The Type Species	1997	Loof, P A A  | Heyns, J
+79	Ampullariidae Gray, 1824: proposed confirmation as the nomenclaturally valid synonym of Pilidae Preston, 1915	1997	Cowie, R H
+80	Disparalona Fryer, 1968 (Crustacea, Branchiopoda): proposed conservation	1997	Fryer, G
+81	Dasineura Rondani, 1840 (Insecta, Diptera): proposed designation of Tipula sisymbrii Schrank, 1803 as the type-species	1997	Gagné, Raymond J  | Harris, Keith M  | Skuhravá, Marcela  | Solinas, Mario  | Sylvén, Edvard
+82	Case 3042 Hydrosaurus gouldii Gray, 1838 (currently Varanus gouldii) and Varanus panoptes Storr, 1980 (Reptilia, Squamata): proposed conservation of the specific names by the designation of a neotype for H. gouldii	1997	Sprackland, R G  | Smith, H M  | Strimple, P D
+83	Case 3043 Varanus teriae Sprackland, 1991 (Reptilia, Squamata): proposed conservation of the specific name	1997	Sprackland, R G  | Smith, H M  | Strimple, P D
+84	On the proposed designation of Atrypa laevis Vanuxem, 1842 as the type species of Meristella Hall, 1859 (Brachiopoda)	1997	Carlson, S J
+85	On the proposed designation of Spirifer multistriatus Hall, 1857 as the type species of Trematospira Hall, 1859 (Brachiopoda)	1997	Boucot, A J  | Carlson, S J  | Brunton, C H C
+86	Comments on the proposed conservation of the names Labrus Linnaeus, 1758, Cichlasoma Swainson, 1839 and Polycentrus Müller & Troschel, 1848 by the designation of neotypes for Labrus bimaculatus Linnaeus, 1758 and L. punctatus Linnaeus, 1758 (Osteichthyes, Perciformes)	1997	Bailey, Reeve M  | Kullander, Sven O
+87	On the proposed conservation of the specific name of Hemidactylus garnotii Dumeril & Bibron, 1836 (Reptilia, Squamata)	1997	Van Dijk, P P
+88	Comments on the proposed conservation of the specific names of Holotropis  herminieri Duméril & Bibron, 1837 (currently Leiocephalus herminieri) and Proctotretus bibronii T. Bell, 1842 (currently Liolaemus bibronii) (Reptilia, Squamata)	1997	Etheridge, R  | Smith, H M  | Bell, E L
+89	Comments On The Proposed Conservation Of Usage Of 15 Mammal Specific Names Based On Wild Species Which Are Antedated By Or Contemporary With Those Based On Domestic Animals	1997	Pellew, Robin
+90	Opinion 1868	1997-06-30	
+91	Opinion 1869. Monstrilla Dana, 1849 and Thaumaleus Krøyer, 1849 (Crustacea, Copepoda): conserved 	1997-06-30	I C Z N
+92	Opinion 1870. Sicus Scopoli, 1763 and Myopa Fabricius, 1775 (Insecta, Diptera): conserved by the designation of Conops ferrugineus Linnaeus, 1761 and C. buccatus Linnaeus, 1758 as the respective type species; and Coenomyia Latreille, 1796 placed on the Official List	1997-06-30	Nomenclature, International Commission On Zoological
+93	Opinion 1871	1997-06-30	
+94	Opinion 1872	1997-06-30	
+95	Opinion 1873	1997-06-30	
+96	Opinion 1874	1997-06-30	
+97	Helix draparnaudi Beck, 1837 (currently Oxychilus draparnaudi; Mollusca, Gastropoda): proposed conservation of the specific name	1997	Manganelli, G  | Giusti, F
+98	Suchonella Spizharsky, 1937 (Crustacea, Ostracoda): proposed designation of S. typica Spizharsky, 1939 as the type species	1997	Sohn, I G  | Molostovskaya, I I
+99	Papilio camillus Fabricius, 1781 (currently Cyrestis camillus) and Limenitis reducta Staudinger, 1901 (Insecta, Lepidoptera): proposed conservation of the specific names	1997	Larsen, T B
+100	Lactura Walker, 1854 (Insecta, Lepidoptera): proposed conservation, and proposed conservation of the specific name of Eustixis pupula Huebner,[1831] (currently Lactura pupula)	1997	Heppner, J B
+101	Strongylogus Tschudi, 1838 (Amphibia, Anura): proposed designation of Rana fasciata Smith, 1849 as the type species	1997	Dubois, A
+102	Cnemidophorus neornexicanus Lowe & Zweifel, 1952 (Reptilia, Squamata): proposed conservation of the specific name	1997	Smith, H M
+103	Generic and specific names of birds (Aves) conventionally accepted as published in the Proceedings of the Zoological Society of London and monographic works by John Gould and other contemporary zoologists: proposed conservation by suppression of all prior usages	1997	Schodde, R  | Bock, W J
+104	On the proposed conservation of Umbellula Cuvier,[1797] (Cnidaria, Anthozoa) as the correct original spelling, and corrections to the entries relating to Umbellularia Lamarck, 1801 on the Official Lists and Indexes of Names in Zoology	1997	Cornelius, P F S
+105	On the proposed conservation of the names Geopeltis Regteren Altena, 1949, Geoteuthis Muenster, 1843, Jeletzkyteuthis Doyle, 1990, Loligosepia Quenstedt, 1839, Parabelopeltis Naef, 1921, Paraplesioteuthis Naef, 1921 and Belemnotheutis montefiorei Buckman, 1880 (Mollusca, Coleoidea)	1997	Riegraf, W
+106	On the proposed designation of Foenus unguiculatus Westwood, 1841 as the type species of Pseudofoenus Kieffer, 1902 (Insecta, Hymenoptera)	1997	Crosskey, R W  | Austin, A D  | Jennings, J T  | Harvey, M S
+107	On the proposed conservation of the names Labrus Linnaeus, 1758, Cichlasoma Swainson, 1839 and Polycentrus Mueller & Troschel, 1849 by the designation of neotypes for Labrus bimaculatus Linnaeus, 1758 and L. punctatus Linnaeus, 1758 (Osteichthyes, Perciformes)	1997	Paepke, H J
+108	Opinion 1875	1977-09-30	
+109	Opinion 1876. Nygolaimus Cobb, 1913 (Nematoda): Dorylaimus brachyuris de Man, 1880 designated as the type species	1977-09-30	I C Z N
+110	Opinion 1877	1977-09-30	
+111	Opinion 1878	1977-09-30	
+112	Opinion 1879	1977-09-30	
+113	Opinion 1880	1977-09-30	
+114	Opinion 1881	1977-09-30	
+115	Opinion 1882	1977-09-30	
+116	Opinion 1883	1977-09-30	
+117	Opinion 1884	1977-09-30	
+118	Opinion 1885	1977-09-30	
+119	Curtis W. Sabrosky (1910-1997)	1997	
+120	Fourth Edition Of The International Code Of Zoological Nomenclature: Notice Of New Provisions	1997	Minelli, A  | Ride, Wdl
+121	Trachelocerca Ehrenberg (Ciliophora): proposed conservation of authorship as Ehrenberg (1840), with fixation of Vibrio sagitta Mueller, 1786 as the type species	1997	Corliss, J O  | Foissner, W
+122	Turrilites gravesianus d'Orbigny, 1842 (currently Hypoturrilites gravesianus; Mollusca, Ammonoidea): proposed conservation of the specific name and designation of a replacement lectotype; Turrilites tuberculatus Bose, 1801 (currently Hypoturrilites tuberculatus): proposed designation of a neotype	1997	Kennedy, W J  | Wright, C W
+123	Meloidae Gyllenhal, 1810 and Nemognathinae Castelnau, 1840 (Insecta, Coleoptera): proposed precedence over Horiidae Latreille, 1802	1997	Bologna, M A  | Pinto, J D
+124	Papilio Sylvanus Esper, (1779) (Currently Known As Ochlodes Venata Or Augiades Sylvanus; Insecta, Lepidoptera): Proposed Conservation Of The Specific Name	1997	Devyatkin, A L
+125	Polyrhachis Smith, 1857 (Insecta, Hymenoptera): proposed precedence over Myrma Billberg, 1820	1997	Dorow, Wolfgang H O  | Kohout, Rudolf J  | Taylor, Robert W
+126	Waagenoconcha Chao, 1927 and Gruntoconcha Angiolini, 1995 (Brachiopoda): proposed conservation	1997	Brunton, C H C
+127	On the proposed conservation of the specific and subspecific names of Trigonocephalus pulcher Peters, 1863 [recte 1862] and Bothrops albocarinatus Shreve, 1934 (Reptilia, Serpentes) by the designation of a neotype for T. pulcher	1997	Kuch, U
+128	On the proposed conservation of the specific names of Hydrosaurus gouldii Gray, 1838 (currently Varanus gouldii) and Varanus panoptes Storr, 1980 (Reptilia, Squamata) by the designation of a neotype for H. gouldii	1997	King, D R
+129	On the proposed conservation of the specific name of Varanus teriae Sprackland, 1991 (Reptilia, Squamata)	1997	Holthuis, L B
+130	Mammals from the Mexican state of Sinaloa. II. Chiroptera	1972-01-25	Jones, J Knox  | Choate, Jerry R  | Cadena, Alberto
+131	Strombidium Gyrans Stokes, 1887 (Currently Strobilidium Gyrans) And Strobilidium Caudatum Kahl, 1932 (Ciliophora, Oligotrichida): Proposed Conservation Of The Specific Names	1998	Heckman, Charles W
+132	Case 3055. Osilinus Philippi, 1847 And Austrocochlea Fischer, 1885 (Mollusca, Gastropoda): proposed conservation by the designation of Trochus turbinatus Born, 1778 as the type species of Osilinus	1998	Gofas, Serge  | Herbert, David G
+133	Case 3026. Androctonus caucasicus Nordmann, 1840 (currently Mesobuthus caucasicus; Arachnida, Scorpiones): proposed conservation of the specific Name	1998	Fet, Victor
+134	Paruroctonus Werner, 1934 (Arachnida, Scorpiones): Proposed Conservation	1998	Sissom, W David  | Fet, Victor  | Braunwalder, Matt E
+135	Corisa propinqua Fieber, 1860 (currently Glaenocorisa propinqua; Insecta, Heteroptera): proposed conservation of the specific name	1998	Jansson, A
+136	Phytobius Dejean, 1835 (Insecta, Coleoptera): Proposed Conservation	1998	Silfverberg, H
+137	DASYPODIDAE Boerner, 1919 (Insecta, Hymenoptera): proposed emendation of spelling to Dasypodaidae, so removing the homonymy with Dasypodaidae Gray, 1821 (Mammalia, Xenarthra)	1998	Alexander, B A  | Michener, C D  | Gardner, A L
+138	On the proposed conservation of the specific and subspecific names of Trigonocephalus pulcher Peters, 1862 and Bothrops albocarinatus Shreve, 1934 (Reptilia, Serpentes) by the designation of a neotype for T. pulcher	1998	Gutberlet, R L  | Harvey, M B  | Schaetti, B  | Wuester, W  | Smith, H M
+139	On the proposed conservation of the specific name of Varanus teriae Sprackland, 1991 (Reptilia, Squamata)	1998	Covacevich, J  | Couper, P  | Shea, G M
+140	On the proposed conservation of the specific name of Cnemidophorus neomexicanus Lowe & Zweifel, 1952 (Reptilia, Squamata)	1998	Cole, C J  | Medica, P A  | Dundee, H A  | Webb, R G  | Tanner, W W  | Wake, D B  | Leuck, B E  | Stebbins, R C
+141	On the proposed conservation of usage of 15 mammal specific names based on wild species which are antedated by or contemporary with those based on domestic animals	1998	Brisbin, I L
+142	Opinion 1886	1998-03-31	
+143	Opinion 1887	1998-03-31	
+144	Opinion 1888	1998-03-31	
+145	Opinion 1889	1998-03-31	
+146	Opinion 1890	1998-03-31	
+147	Opinion 1891	1998-03-31	
+148	Opinion 1892	1998-03-31	
+149	Opinion 1893	1998-03-31	
+150	Opinion 1894	1998-03-31	I C Z N
+151	Campeloma Rafinesque, 1819 (Mollusca, Gastropoda): proposed conservation	1998	Bogan, A E  | Spamer, E E
+152	Case 3008. Euchilus Sandberger, 1870 and Stalioa Brusina, 1870 (Mollusca, Gastropoda): proposed designation of Bithinia deschiensiana Deshayes, 1862 and Paludina desmarestii Prévost, 1821 as the respective type species, with the conservation of Bania Brusina, 1896	1998	Kadolsky, D
+153	Holospira Martens, 1860 (Mollusca, Gastropoda): proposed designation of Cylindrella goldfussi Menke, 1847 as the type species	1998	Thompson, F G
+154	Thamnotettix Nigropictus Stal, 1870 (Currently Nephotettix Nigropictus; Insecta, Homoptera): Proposed Conservation Of The Specific Name	1998	Wilson, M R
+155	Cicada clavicornis Fabricius, 1794 (currently Asiraca clavicornis; Insecta, Homoptera): proposed conservation of the specific name	1998	Wilson, M R  | Asche, M
+156	Case 3068 Musca rosae Fabricius, 1794 (Currently Psila Or Chamaepsila rosae; Insecta, Diptera): Proposed Conservation Of The Specific Name	1998	Chandler, Peter
+157	Iguanodon Mantell, 1825 (Reptilia, Ornithischia): proposed designation of Iguanodon bernissartensis Boulenger in Beneden, 1881 as the type species, and proposed designation of a lectotype	1998	Charig, A J  | Chapman, S D
+158	On the proposed conservation of Disparalona Fryer, 1968 (Crustacea, Branchiopoda)	1998	Grygier, M J
+159	Comment On The Proposed Conservation Of The Names Hydrosaurus Gouldii Gray, 1838 And Varanus Panoptes Storr, 1980 (Reptilia, Squamata) By The Designation Of A Neotype For Hydrosaurus Gouldii	1998	Shea, Glenn M  | Cogger, Harold G
+160	On the proposed conservation of the specific name of Varanus teriae Sprackland, 1991 (Reptilia, Squamata)	1998	Ziegler, T  | Boehme, W  | Hoser, R T
+161	On the proposed conservation of the specific name of Diemenia atra Macleay, 1884 (currently Demansia atra; Reptilia, Serpentes)	1998	Shea, G M
+162	On the proposed conservation of the name Loris E. Geoffroy Saint-Hilaire, 1796 (Mammalia, Primates)	1998	Gentry, A  | Groves, C P  | Jenkins, P D
+163	On the proposed conservation of usage of 15 mammal specific names based on wild species which are antedated by or contemporary with those based on domestic animals	1998	Altaba, C R
+164	Opinion 1895	1998-06-30	
+165	Opinion 1896	1998-06-30	
+166	Opinion 1897. Glomeris Latreille, 1802 (Diplopoda), Armadillo Latreille, 1802, Armadillidium Brandt in Brandt & Ratzeburg, [1831] and Armadillo vulgaris Latreille, 1804 (currently Armadillidium vulgare) (Crustacea, Isopoda): generic and specific names conserved	1998-06-30	Nomenclature, International Commission On Zoological
+167	Opinion 1898. Metaphycus Mercet, 1917 (Insecta, Hymenoptera): given precedence over Aenasioidea Girault, 1911	1998-06-30	I C Z N
+168	Opinion 1899	1998-06-30	
+169	Opinion 1900	1998-06-30	
+170	Opinion 1901	1998-06-30	
+171	Hydrobia Hartmann, 1821 and Cyclostoma acutum Draparnaud, 1805 (currently Hydrobia acuta; Mollusca, Gastropoda): proposed conservation by replacement of the lectotype of H. acuta with a neotype; Ventrosia Radoman, 1977: proposed designation of Turbo ventrosus Montagu, 1803 as the type species; and HYDROBIINA Mulsant, 1844 (Insecta, Coleoptera): proposed emendation of spelling to HYDROBIUSINA, so removing the homonymy with HYDROBIIDAE Troschel, 1857 (Mollusca)	1998	Giusti, F  | Manganelli, G  | Bodon, M
+172	Pachylops Fieber, 1858 (Insecta, Heteroptera): Proposed Designation Of Capsus Chloropterus Kirschbaum, 1856 (Currently Orthotylus Virescens	1998	Carapezza, A  | Kerzhner, I M
+173	Scarus chrysopterus Bloch & Schneider, 1801 (currently Sparisoma chrysopterum; Osteichthyes, Perciformes): proposed conservation of the specific name and designation as the type species of Sparisoma Swainson, 1839	1998	Moura, R L  | Randall, J E
+174	Osphronemus deissneri Bleeker, 1859 (currently Parosphromenus deissneri; Osteichthyes, Perciformes): proposed replacement of holotype by a neotype	1998	Ng, P K L  | Kottelat, M
+175	Cacatua Vieillot, 1817 and Cacatuinae Gray, 1840 (Aves, Psittaciformes): proposed conservation	1998	Bock, W J  | Schodde, R
+176	Case 3004. Lorisidae Gray, 1821 and Galagidae Gray, 1825 (Mammalia, Primates): proposed conservation as the correct original spellings	1998	Schwartz, J H  | Shoshani, J  | Tattersall, I  | Simons, E L  | Gunnell, G F  | Ankel-Simons, F
+177	On the proposed conservation of the specific name of Papilio sylvanus Esper,[1777] (currently Ochlodes venata or Augiades sylvanus; Insecta, Lepidoptera)	1998	De Jong, R  | Karsholt, O
+178	On the proposed designation of Iguanodon bernissartensis Boulenger in Beneden, 1881 as the type species of Iguanodon Mantell, 1825, and proposed designation of a lectotype (Reptilia, Ornithischia)	1998	Norman, D  | Milner, A C
+179	On the proposed conservation of the names Hydrosaurus gouldii Gray, 1838 and Varanus panoptes Storr, 1980 (Reptilia, Squamata) by the designation of a neotype for Hydrosaurus gouldii	1998	Boehme, W  | Ziegler, T  | Sprackland, R G  | Smith, H M  | Strimple, P D
+180	On the proposed suppression of all prior usages of generic and specific names of birds (Aves) by John Gould and others conventionally accepted as published in the Proceedings of the Zoological Society, of London	1998	Olson, S L  | Schodde, R  | Bock, W J
+181	Opinion 1902	1998-09-30	
+182	Opinion 1903	1998-09-30	I C Z N
+183	Opinion 1904	1998-09-30	
+184	Opinion 1905	1998-09-30	
+185	Opinion 1906. Euchroeus Latreille, 1809 (Insecta, Hymenoptera): conserved; Chrysis purpurata Fabricius, 1787 (currently Euchroeus purpuratus): specific name conserved; and Chrysis gloriosa Fabricius, 1793: specific name suppressed	1998-09-30	Nomenclature, International Commission On Zoological
+186	Opinion 1907	1998-09-30	
+187	Opinion 1908	1998-09-30	
+188	Opinion 1909	1998-09-30	
+189	Haliotis clathrata Reeve, 1846 (non Lichtenstein, 1794) and H. elegans Philippi, 1844 (Mollusca, Gastropoda): proposed conservation of the specific names	1998	Geiger, D L  | Stewart, K A
+190	Polydora websteri Hartman in Loosanoff & Engle, 1943 (Annelida, Polychaeta): proposed conservation of the specific name by a ruling that it is not to be treated as a replacement for P. caeca Webster, 1879, and designation of a lectotype for P. websteri	1998	Radashevsky, V I  | Williams, J D
+191	Spherillo Dana, 1852 (Crustacea, Isopoda): proposed designation of S. vitiensis Dana, 1853 as the type species, with designation of a neotype	1998	Lehtinen, P T  | Taiti, S  | Ferrara, F
+192	Terebratula Müller, 1776 (Brachiopoda): proposed designation of Anomia terebratula Linn\aeus, 1758 as the type species	1998	Lee, D E  | Brunton, C H C
+193	Coluber Infernalis Blainville, 1835 And Eutaenia Sirtalis Tetrataenia Cope In Yarrow, 1875 (Currently Thamnophis Sirtalis Infernalis And T. S. Tetrataenia; Reptilia, Squamata): Proposed Conservation Of The Subspecific Names By The Designation Of A Neotype For T. S. Infernalis	1998	Barry, Sean J  | Jennings, Mark R
+194	Crotalus ruber Cope, 1892 (Reptilia, Serpentes): proposed precedence of the specific name over that of Crotalus exsul Garman, 1884	1998	Smith, H M  | Brown, L E  | Chiszar, D  | Grismer, L L  | Allen, G S  | Fishbein, A  | Hollingsworth, B D  | Mcguire, J A  | Wallach, V  | Strimple, P  | Others
+195	Comments On The Proposed Conservation Of The Specific Names Of Strombidium Gyrans Stokes, 1887 (Currently Strombilidium Gyrans) And Strombilidium Caudatum Kahl, 1932 (Ciliophora, Oligotrichida)	1998	Corliss, John O
+196	On the proposed designation of Cylindrella goldfussi Menke, 1847 as the type species of Holospira Martens, 1860 (Mollusca, Gastropoda)	1998	Gilbertson, L H
+197	On the proposed conservation of the specific name of Cicada clavicornis Fabricius, 1794 (currently Asiraca clavicornis; Insecta, Homoptera)	1998	Emeljanov, A F  | Kerzhner, I M
+198	Comments on the proposed conservation of the names Labrus Linnaeus, 1758, Cichlasoma Swainson, 1839 and Polycentrus Müller & Troschel, 1848 by the designation of neotypes for Labrus bimaculatus Linnaeus, 1758 and L. punctatus Linnaeus, 1758 (Osteichthyes, Perciformes)	1998	Kottelat, Maurice  | Wheeler, Alwyne
+199	On the proposed designation of Iguanodon bernissartensis Boulenger in Beneden, 1881 as the type species of Iguanodon Mantell, 1825, and proposed designation of a lectotype	1998	Barrett, P M  | Carpenter, K  | Sues, H D
+200	On the proposed conservation of the specific name of Australopithecus afarensis Johanson, 1978 (Mammalia, Primates)	1998	White, T  | Renne, P  | Stringer, C  | Ohman, J C
+201	Opinion 1910	1998-12-18	
+202	Dasineura Rondani, 1840 (Insecta, Diptera): Tipula Sisymbrii Schrank, 1803 Designated As The Type Species	1998	I C Z N
+203	Opinion 1912	1998-12-18	
+204	A revision of the large Barbus (Pisces, Cyprinidae) of east and central Africa. Studies on African Cyprinidae. Part 2	1973	
+205	Some digenetic trematodes in fishes from the Bay of Biscay and nearby waters	1973	Bray, Rodney A
+206	The indigenous earthworms (Megascolecidae: Oligochaeta) of Tasmania	1974	Jamieson, Barrie Gillean Molyneux
+207	The freshwater fishes of rivers Mungo and Meme and Lakes Kotto, Mboandong and Soden, West Cameroon	1974	Trewavas, Ethelwynn
+208	The freshwater fishes of rivers Mungo and Meme and Lakes Kotto, Mboandong and Soden, west Cameroon	1974	Trewavas, E
+209	Notes on some echinoderms from southern Africa	1974	Clark, A M
+210	Notes on some echinoderms from southern Africa	1974	Clark, A M
+211	Notes on a small Collection of Myriopods from the Bermuda Islands	1889	Bollman, Charles H
+212	On the new spider of the genus Dinopis, from the southern United States	1889	Marx, G
+213	Neue pedipalpen und scorpione des Hamburger Museums	1898	Kraepelin, Karl
+214	Anolis alumina, new species of grass anole from the Barahona Peninsula of Hispaniola	1976	Hertz, Paul E
+215	Crocodilians from the late Tertiary of northwestern Venezuela: Melanosuchus Fisheri sp. nov	1976	Medina, C J
+216	On a new specimen of the lower Cretaceous theropod dinosaur Deinonychus antirrhopus	1976	Ostrom, J H
+217	West Indian Anoles: a taxonomic and evolutionary summary 1. Introduction and a species list	1976	Williams, E E
+218	Lizard karyotypes from the Galapagos Islands: chromosomes in phylogeny and evolution	1976	Paull, D  | Williams, E E  | Hall, W P
+219	A laboratory study of the Turkish hamster Mesocricetus brandti	1977	Lyman, C P  | Brien, R C
+220	Epigonus trewavasae Poll, a junior synonym of Epigonus constanciae (Giglioli) (Perciformes, Apogonidae)	1977	Mayer, G F  | Tortonese, E
+221	Stations of the Thayer Expedition to Brazil 1865-1866	1977	Dick, M M
+222	Natural history of Cerion. VII. geographic variation of Cerion (Mollusca: Pulmonata) from the eastern end of its range (Hispaniola to the Virgin Islands): coherent patterns and taxonomic simplification	1977	Gould, S J  | Paull, C
+223	A new interpretation of the mammalian teeth of tribosphenic pattern from the Albian of Texas	1978	Butler, P M
+224	Food selection by beavers: sampling behavior	1978	Jenkins, S H
+225	Systematic notes on the loons (Gaviidae: Aves)	1978	Storer, R W
+226	A new species of Moenkhausia from the Mato Grosso region of Brazil (Pisces: Characidae)	1979	Fink, W L
+227	A new species of Cybotoid anole (Sauria, Iguanidae) from Hispaniola	1979	Schwartz, A
+228	Lizards of the Sceloporus orcutti complex of the Cape region of Baja California	1979	P, Hall W  | M, Smith H
+229	The large Palaeotragine giraffid, Palaeotragus germaini, from late Miocene deposits of Lothagam Hill, Kenya	1979	Churcher, C S
+230	Evolution of life histories: a comparison of Anolis lizards from matched island and mainland habitats	1979	Andrews, R M
+231	A new Paleocene Palaeanodont and the origin of the Metacheiromyidae (Mammalia)	1979	Rose, K D
+232	Description of a new Hawaiian gobiid fish of the genus Trimma	1979	Lobel, P S
+233	Two new species of Eleutherodactylus (Amphibia: Leptodactylidae) from the lowlands and lower cloud forests of western Ecuador	1980	Lynch, J D  | Miyata, K
+234	A new species of Atelopus (Anura: Bufonidae) from the cloud forests of northwestern Ecuador	1980	Miyata, K
+235	A new species of Dendrobates (Anura: Dendrobatidae) from the lowland rain forests of western Ecuador	1980	Vigle, G O  | Miyata, K
+236	On the evolution of the jaw adductor musculature in primitive gnathostome fishes	1980	Lauder, G V
+237	Geographic variation in Anolis brevirostris (Sauria: Iguanidae) in Hispaniola	1980	Arnold, D L
+238	Eleutherodactylus eremitus, a new trans-Andean species of the Lacrimosus assembly from Ecuador (Amphibia: Leptodactylidae)	1980	Lynch, J D
+239	Jaw musculature of the West Indian snake Alsophis cantherigerus brooksi (Colubridae, Reptilia)	1980	Kardong, K V
+240	A new genus and five new species of Neotropical Tryphoninae (Hymenoptera: Ichneumonidae)	2003	Bennett, Andrew M R
+241	Foraging Strategy and Pollen Preferences of Andrena vaga (Panzer) and Colletes cunicularius (L.) (Hymenoptera: Apidae)	2003	Bischoff, Inge  | Feltgen, Kerstin  | Breckner, Doris
+242	Taxonomic Revision of the Genus Sesioctonus Viereck (Hymenoptera: Braconidae: Agathidinae)	2003	Rosa A. Briceño, G
+243	The Effect of Body Size on Male-Male Combat in the Parasitoid Wasp Melittobia digitata Dahms (Hymenoptera: Eulophidae)	2003	Hartley, Christopher S  | Matthews, Robert W
+244	Morphological Variation in Opius Wesmael (Hymenoptera: Braconidae) with an Emphasis on Nearctic Species in the Subgenus Gastrosema Fischer	2003	Kula, Robert R
+245	Prosopigastra morogoro, a New Species from Tanzania (Hymenoptera: Apoidea: Crabronidae: Larrini)	2003	Pulawski, Wojciech J
+246	A New Species of Copidosoma Ratzeburg (Hymenoptera: Encyrtidae) from Eagle Nests in Kazakhstan	2003	Sharkov, Andrey  | Katzner, Todd E  | Bragina, Tatyana
+247	Food Plants and Life Histories of Sawflies of the Families Tenthredinidae and Pergidae (Hymenoptera) in Costa Rica, with Descriptions of Four New Species	2003	Smith, David R  | Janzen, Daniel H
+248	Review of the Southeastern Asian Sawfly Genus Eusunoxa Enslin (Hymenoptera: Tenthredinidae)	2003	Smith, David R  | Saini, M S
+249	Larval Anatomy of Orussidae (Hymenoptera)	2003	Vilhelmsen, Lars
+250	First Report Of Male Sleeping Aggregations In The Pollen Wasp Celonites abbreviatus (Villers, 1789) (Hymenoptera: Vespidae: Masarinae)	2003	Amiet, F  | Maus, V
+251	The American Association For Zoological Nomenclature	1987	Manning, R B
+252	Case 2324. Cryptus Fabricius, 1804 (Insecta, Hymenoptera): Proposed Conservation	1987	Rossem, G Van
+253	Oncomera Stephens 1829 Insecta Coleoptera Proposed Designation Of Dryops femorata Fabricius 1792 As Type Species	1987	Svihla, V
+254	Musca marginalis Wiedemann, 1830 (currently Chrysomya marginalis; Insecta, Diptera): proposed conservation of the specific name	1987	Braack, Leo
+255	Harpa articularis Lamarck 1822 Mollusca Gastropoda Proposed Conservation Of The Specific Name	1987	Rehder, H A  | Petit, R E
+256	Conus floridanus Gabb, 1869 (Mollusca, Gastropoda): proposed conservation of the specific name	1987	Cernohorsky, W O
+257	Filenchus Andrássy, 1954 (Nematoda): proposed designation of Tylenchus vulgaris Brzeski, 1963 as type species	1987	Brzeski, M W  | Geraert, E  | Raski, D J
+258	Desorella Cotteau 1855 Echinodermata Echinoidea Proposed Confirmation Of Hyboclypus elatus Desor 1847 As Type Species	1987	Rose, E P F  | Olver, J B S
+259	Alveolina d'Orbigny, 1826 (Foraminiferida): proposed designation of Oryzaria boscii Defrance in Bronn, 1825 as type species	1987	Loeblich, A R J R  | Tappan, H
+260	Case 2044. Eriophyes von Siebold, 1851 and Phytoptus Dujardin, 1851 (Arachnida, Acarina) proposed designation of type species	1987	Lindquist, Evert E  | Manson, D C M
+261	List of avian family-group names to be proposed for conservation	1987	Bock, W J
+262	Opinion 1421	1987-03-23	
+263	Opinion 1422	1987-03-23	
+264	Opinion 1423	1987-03-23	
+265	Opinion 1424	1987-03-23	
+266	Opinion 1425	1987-03-23	
+267	Opinion 1426	1987-03-23	
+268	Opinion 1427	1987-03-23	
+269	Opinion 1428. Hymenolepis Weinland, 1858 (Cestoda): Taenia diminuta Rudolphi, 1819 designated as type species	1987-03-23	I C Z N
+270	Opinion 1429	1987-03-23	
+271	Opinion 1430	1987-03-23	
+272	Opinion 1431	1987-03-23	
+273	Opinion 1432	1987-03-23	
+274	Use versus priority in zoological nomenclature: a solution for an old problem	1987	Cornelius, P F S
+275	Alcyonidium Lamouroux, 1813 (Bryozoa): proposed conservation by the suppression of Fucus Hudson, 1762 and Ulva Hudson, 1778 in their zoological sense	1987	Thorpe, J P  | Winston, J E
+276	Proposed conservation of four sipunculan specific names	1987	Salinas, J I Saiz
+277	Callianidea H. Milne Edwards, 1837 (Crustacea, Decapoda): proposed conservation	1987	Sakai, K  | Holthuis, L B
+278	Case 2542 Trapeziidae Miers, 1886 (Crustacea, Brachyura) and Trapeziidae Lamy, 1920 (Mollusca, Bivalvia): proposal to remove homonymy	1987	Morgan, G J
+279	Corisa germari Fieber, 1848 (currently Arctocorisa germari; Insecta, Hemiptera): proposed designation of a neotype	1987	Jansson, A
+280	Corisa distincta Fieber, 1848 (currently Sigara (Subsigara) distincta; Insecta, Hemiptera): proposed conservation of the specific name	1987	Jansson, A
+281	Coeloides Wesmael, 1838 (Insecta, Hymenoptera): proposed designation of Coeloides scolyticida Wesmael, 1838, as type species	1987	Van Achterberg, C
+282	Disophrys Foerster, 1862 (Insecta, Hymenoptera): proposed designation of Agathis caesa Klug, 1835 as type species	1987	Van Achterberg, C
+283	Phymatodes Mulsant, 1839 and Phymatestes Pascoe, 1867 (Insecta, Coleoptera): proposed conservation	1987	Mroczkowski, M
+284	Chlorophanus Sahlberg, 1823 (Insecta, Coleoptera): proposed conservation	1987	Silfverberg, H
+285	Polyommatus emolus Godart,[1824] (currently Anthene emolus; Insecta, Lepidoptera): proposed conservation of specific name	1987	Tite, G E
+286	Holothuria arenicola Semper, 1868 (Echinodermata, Holothuroidea): proposed conservation of the specific name	1987	Pawson, D L  | Miller, J E
+287	Case 2531. Three works by Richard W. Wells and C. Ross Wellington: proposed suppression for nomenclatural purposes	1987	The President, Australian Society Of Herpetologists
+288	Halianassa studeri Von Meyer 1838 Mammalia Sirenia Proposed Designation Of A Neotype And Proposed Conservation Of Halitherium Kaup 1838 By Designation Of A Type Species	1987	Domning, D P
+289	Comments on the proposed suppression of Rallus nigra Miller, 1784 and Columba R. Forsteri Wagler, 1829 (Aves)	1987	Olson, S L  | Steadman, D W  | Bruce, M D  | Holyoak, D T  | Thibault, J C
+290	Comment on the proposed precedence of Simulium austeni Edwards, 1915 over Simulium posticatum Meigen, 1838 (Insecta, Diptera)	1987	Crosskey, R W  | Zwick, H
+291	Opinion 1433	2008	
+292	Opinion 1434	1987-06-25	
+293	Opinion 1435	1987-06-25	
+294	Opinion 1436	1987-06-25	
+295	Opinion 1437. Neodorippe Serène & Romimohtarto, 1969 (Crustacea, Decapoda): Dorippe callida Fabricius, 1798 designated as type species	1987-06-25	Nomenclature, International Commission On Zoological
+296	Opinion 1438	1987-06-25	
+297	Opinion 1439	1987-06-25	
+298	Opinion 1440	1987-06-25	
+299	Opinion 1441	1987-06-25	
+300	Opinion 1442	1987-06-25	I C Z N
+301	Opinion 1443. Microchrysa Loew, 1855 (Insecta, Diptera): conserved	1987-06-25	Nomenclature, International Commission On Zoological
+302	Opinion 1444	1987-06-25	
+303	Opinion 1445	1987-06-25	
+304	Opinion 1446	1987-06-25	
+305	On the introduction of the term pragmatype, and some comments on the role of the International Commission on Zoological Nomenclature. Reply	1987	Disney, Rhl  | Erzinclioglu, Y Z  | Tubbs, P K
+306	Sorites Ehrenberg, 1839 (Foraminiferida): proposed designation of Nautilus orbiculus Forsk\aal, 1775 as type species	1987	Loeblich, A R J R  | Tappan, H
+307	Discocyclina Gümbel, 1870 (Foraminiferida): proposed designation of Orbitolites prattii Michelin, 1847 as type species	1987	Loeblich, A R J R  | Tappan, H
+308	Avicula gryphaecoides J. de C. Sowerby, 1836 (Mollusca, Bivalvia): proposed conservation	1987	Lee, G
+309	Haminoea Turton & Kingston, 1830 (Mollusca, Gastropoda): proposed confirmation of original spelling	1987	Giannuzzi-Savelli, R
+310	Disculiceps Joyeux & Baer, 1935 (Cestoidea): proposed conservation	1987	Caira, J N
+311	Loxoconchella Triebel, 1954 (Crustacea, Ostracoda): proposed confirmation of type species	1987	Malz, H  | Keij, A J
+312	Chelonus Panzer, 1806 (Insecta, Hymenoptera) and Anomala Samouelle, 1819 (Insecta, Coleoptera): proposed conservation	1987	Van Achterberg, C
+313	Curculio assimilis Paykull, 1792 (currently Ceutorhynchus assimilis; Insecta, Coleoptera): proposed conservation of the specific name	1987	Silfverberg, H
+314	Dystiscus cinereus Linnaeus, 1758 (currently Graphoderus cinereus; Insecta, Coleoptera): proposed replacement of neotype	1987	Nilsson, A N  | Foster, G N
+315	Dytiscus ater de Geer, 1774 (currently Ilybius ater) and Dytiscus planus Fabricius, 1781 (currently Hydroporus planus; Insecta, Coleoptera): proposed conservation of the specific names	1987	Nilsson, A N
+316	Glabellula Bezzi, 1902 (Insecta, Diptera): proposed designation of Platygaster arcticus Zetterstadt, 1838, as type species	1987	Evenhuis, N L
+317	Pararatus Ricardo, 1913 (Insecta, Diptera): proposed designation of Paratus ricardoae Daniels, 1987 as type species	1987	Daniels, G
+318	ETHMIIDAE Busck, 1909 (Insecta, Lepidoptera): proposed precedence over AZINIDAE Walsingham, 1906	1987	Powell, J A
+319	Chelifer Geoffroy, 1762 (Arachnida, Pseudoscorpionida): proposed conservation	1987	Harvey, M S
+320	Sarotherodon melanotheron Rüppell, 1852 (Osteichthyes, Perciformes): proposed conservation of the specific name	1987	Trewavas, E
+321	Anabas oxyrhynchus Boulenger, 1902 (currently Ctenopoma oxyrhynchum; Osteichthyes, Perciformes): proposed conservation of the specific name	1987	Norris, S M
+322	Comment on the proposed conservation of Pyralis (currently Cydia or Laspeyresia) nigricana Fabricius, 1794 (Insecta, Lepidoptera)	1987	Robinson, G S  | Nielsen, E S
+323	Opinion 1447	1987-09-25	
+324	Opinion 1448	1987-09-25	
+325	Opinion 1449	1987-09-25	
+326	Opinion 1450	1987-09-25	
+327	Opinion 1451	1987-09-25	
+328	Opinion 1452	1987-09-25	
+329	Opinion 1453	1987-09-25	
+330	Opinion 1454	1987-09-25	
+331	Opinion 1455	1987-09-25	
+332	Opinion 1456	1987-09-25	
+333	Opinion 1457	1987-09-25	
+334	Opinion 1458	1987-09-25	
+335	Opinion 1459. Carcharias Rafinesque, 1810 (Chondrichthyes, Lamniformes): conserved	1987-09-25	I C Z N
+336	Opinion 1460	1987-09-25	
+337	Opinion 1461	1987-09-25	
+338	Euglenidae Stein, 1878 (Protista, Flagellata) and Euglenidae Seidlitz, 1875 (Insecta, Coleoptera): proposals to remove the homonymy, with conservation of Aderidae Winkler, 1927 (Insecta, Coleoptera)	1987	Mroczkowski, M  | Slipinski, S A
+339	Dysidea Johnston, 1842 (Porifera, Keratosa): proposed conservation	1987	Erridge, N  | Tollitt, M E
+340	Case 2589. Hypsibius Ehrenberg, 1848 (Tardigrada): proposed designation of Macrobiotus dujardini Doyère, 1840 as type species	1987	Binda, Maria Grazia  | Pilato, Giovanni
+341	Dioctophyme Collet-Meygret, 1802 (Nematoda): proposed confirmation of spelling (CIOMS case no. 7)	1987	Tollitt, M E
+342	Cryptocoeloma Miers, 1884 (Crustacea, Decapoda): proposed designation of Cryptocoeloma haswelli Rathbun, 1923, as type species	1987	Ng, P K L  | Holthuis, L B
+343	Dacus parallelus Wiedemann, 1830 (currently Anastrepha parallela; Insecta, Diptera): proposed replacement of lectotype	1987	Norrbom, A L
+344	Asterias squamata Delle Chiaje, 1828 (currently Amphipholis squamata; Echinodermata, Ophiuroidea): proposed conservation of the specific name	1987	Clark, A M
+345	Heliases ternatensis Bleeker, 1856 (currently Chromis ternatensis; Osteichthyes, Perciformes): proposed conservation, and adoption of the name Chromis viridis (Cuvier, 1830) for the fish commonly called C. caerulea (Cuvier, 1830)	1987	Randall, John E  | Bauchot, Marie-Louise  | Desoutter, Martine
+346	Neamia octospina Smith & Radcliffe, 1912 (Osteichthyes, Perciformes): proposed conservation of the specific name	1987	Gon, O
+347	Platanista Wagler, 1830 (Mammalia, Cetacea): proposed conservation	1987	Rice, D W
+348	Megaloceros Brookes 1828 Mammalia Artiodactyla Proposed Emendation Of The Original Spelling	1987	Lister, A M
+349	Comment on the proposed suppression for nomenclatural purposes of three works by Richard W Wells and C. Ross Wellington	1987	Shea, G M
+350	OPINION 1462.  CAECILIIDAE Rafinesque-Schmaltz, 1814 (Amphibia, Gymnophiona) and CAECILIIDAE Kolbe, 1880 (Insecta, Psocoptera): a ruling to remove the homonymy	1987	Nomenclature, International Commission On Zoological
+351	Opinion 1463	1987-12-11	
+352	Comments on the proposed amendment to Article 51c of the International Code of Zoological Nomenclature. Z.N.(S.)2474	1986	Staines, C L
+353	Comment On The Proposed Completion Of The Official List Entry For Rhabditis Dujardin, [1855] (Nematoda) Z.n.(S.) 937	1986	Melville, R V
+354	Further Comment On The Proposed Conservation Of Laspeyresia Hubner,	1986	Bradley, J D  | Hamilton, C J
+355	Comment On The Proposed Conservation Of Hyla Lactea Daudin, 1803	1986	Smith, H M
+356	Comment on the proposed grant of precedence to THRESKIORNITHIDAE Richmond, 1917 (Aves) over PLATALEINAE Bonaparte, 1838	1986	Campbell, K E  | Phillips, A R  | Olson, S L  | Rea, A M  | Brodkorb, P
+357	Further Comment On The Proposed Conservation Of Southernia Allgen, 1929 By The Suppression Of Southernia Filipjev, 1927 (Nematoda). Z.n.(S.) 940(1)	1986	Inglis, Wg
+358	Opinion 1369	1986-04-09	
+359	Opinion 1370	1986-04-09	
+360	Opinion 1371	1986-04-09	
+361	Opinion 1372	1986-04-09	
+362	Opinion 1373	1986-04-09	
+363	Opinion 1374	1986-04-09	
+364	Opinion 1375	1986-04-09	
+365	Opinion 1376	1986-04-09	
+366	Opinion 1377	1986-04-09	
+367	Opinion 1378	1986-04-09	
+368	Opinion 1379	1986-04-09	
+369	Opinion 1380	1986-04-09	
+370	Opinion 1381	1986-04-09	
+371	Opinion 1382	1986-04-09	
+372	Trioxycanus Dumbleton, 1966 (Lepidoptera), a genus based on a misidentified type species, with proposal of new names for the taxonomic genus and species involved	1986	Dugdale, J S
+373	Dasyurus hallucatus Gould, 1842 (Mammalia, Marsupialia): proposed conservation by the suppression of Mustela Quoll Zimmermann, 1783	1986	Mahoney, J A  | Ride, Wdl
+374	Dryophthorus Germar, 1824 (Insecta, Coleoptera): proposed conservation by the suppression of Bulbifer Dejean, 1821	1986	O'brien, C W  | Osella, G
+375	Lachnopus Schoenherr, 1840 (Insecta, Coleoptera): proposed conservation by the suppression of Menoetius Dejean, 1821 and Ptilopus Schoenherr, 1823	1986	O'brien, C W  | Wibmer, G J
+376	Nemocestes Van Dyke, 1936 (Insecta, Coleoptera): proposed conservation and designation of type species	1986	O'brien, C W
+377	Zygops Schoenherr, 1825 (Insecta, Coleoptera): proposed conservation by the suppression of Eccoptus Dejean, 1821	1986	O'brien, C W  | Wibmer, G J
+378	Ammonites perarmatus J. Sowerby, 1822 (Cephalopoda, Ammonoidea); proposed exemption from the principle of homonymy	1986	Howarth, M K
+379	Clausilia Draparnaud, 1805 (Mollusca, Gastropoda): proposed correction of opinion 119	1986	Melville, R V
+380	De la Cépède, 1788 ― 1789 Histoire Naturelle des Serpens and later editions: proposed rejection as a non-binominal work	1986	Melville, R V
+381	ATYIDAE De Haan,[1849] (Crustacea, Decapoda) and ATYIDAE Thiele, 1926 (Mollusca, Gastropoda): proposals to remove the homonymy	1986	Crosby, T K  | Carpenter, A
+382	Carcharias Rafinesque, 1810 (Chondrichthyes, Lamniformes): proposed conservation by the use of the relative precedence procedure	1986	Compagno, L J V  | Follett, W I
+383	Pyralis nigricana Fabricius, 1794 (Insecta, Lepidoptera): proposed conservation by the suppression of Phalaena rusticella Clerck, 1759	1986	Seymour, P R
+384	Apanteles ornigis Weed, 1887 (Insecta, Hymenoptera): proposed conservation by the suppression of Microgaster robiniae Fitch, 1859	1986	Whitfield, J B
+385	Strongylaspis Spaeth, 1936 (Insecta, Coleoptera) non Strongylaspis Thomson, 1860: proposed designation of Cassida atripes Leconte, 1859 as type species	1986	Riley, E G
+386	Nomadacris Uvarov, 1923 (Insecta, Orthoptera): proposed conservation by setting aside the first―reviser action of Jago. Comment	1986	Key, K H L  | Jago, N D  | Kevan, K M
+387	Type species of the genus Calymene Brongniart (Trilobita) in Brongniart & Desmarest, 1822 and proposed suppression of the name Tuberculatus Brünnich, 1781	1986	Whittington, H B  | Siveter, D J
+388	Dates and authorship of the text volumes of the Histoire Naturelle section of Savigny's Description de l'Egypte	1986	Audouin, Tollitt
+389	Tubulanus Renier,[1804] and T. polymorphus Renier,[1804] (Polychaeta): proposed reinstatement under the plenary powers	1986	Melville, R V
+390	Comments on the proposed designation of a type species for Berytus Fabricius, 1803 (Insecta, Heteroptera). Z. N. (S.) 2464 (see vol. 42, pp. 293-295)	1986	Pericart, J
+391	Apis pilipes Fabricius, 1775 (Insecta, Hymenoptera): designated as type species of Megilla Fabricius, 1805	1986	Tubbs, P K
+392	Dromophis Peters, 1869 (Reptilia, Serpentes): conserved	1986	Tubbs, P K
+393	Opinion 1385. Anolis carolinensis Voigt, 1832 designated as type species of Anolis Daudin, 1802 (Reptilia, Sauria)	1986	Tubbs, P K
+394	Papilio erato Linnaeus, 1758 (Insecta, Lepidoptera): neotype designated	1986	Tubbs, P K
+395	Curculio picirostris Fabricius, 1787 and Tychius stephensi Schönherr, 1836 (Insecta, Coleoptera, Curculionidae): conserved	1986	Tubbs, P K
+396	Callionymus sagitta Pallas, 1770 (Osteichthyes, Callionymidae): neotype designated	1986	Tubbs, P K
+397	Phascolosoma cumanense Keferstein, 1867 (Sipunculida): given precedence over Lumbricus edulis Pallas, 1774	1986	Tubbs, P K
+398	Pellonula bahiensis Steindachner, 1879 (Osteichthyes): replacement lectotype designated	1986	Tubbs, P K
+399	Opinion 1391	1986-07-09	
+400	Reptomultisparsa d'Orbigny, 1853 (Bryozoa, Cyclostomata): type species designated	1986	Tubbs, P K
+401	Opinion 1393	1986-07-09	
+402	Centrurus limpidus Karsch, 1879 and Centruroides ornatus Pocock, 1902 (Arachnida, Scorpiones): Conserved	1986	Tubbs, P K
+403	Opinion 1395: Tomiopsis Benediktova, 1956 (Brachiopoda, Spiriferida)	1986	Tubbs, P K
+404	Opinion 1396	1986-07-09	
+405	Opinion 1397	1986-07-09	
+406	Opinion 1398	1986-07-09	
+407	Cochliomyia Townsend, 1915 (Diptera, Calliphoridae): Conserved	1986	Tubbs, P K
+408	Bubo Dumeril, 1806 And Surnia Dumeril, 1806 (Aves): Proposed Confirmation On Official List. Z.n.(S.) 1051	1986	Melville, R V
+409	Antispila Hübner,[1825] (Insecta, Lepidoptera): Proposed validation of Antispila stadtmüllerella (Hübnev) 1825 as a type species	1986	Nielsen, E S  | Nye, Iwb
+410	Heteroclonium bicolor Cope, 1896 (Reptilia, Squamata): Proposed conservation by suppression of Chirotes diglossis Saenz 1869	1986	Ayala, S C
+411	On the names of two species of the genus Clytia Lamouroux, 1812 (Cnidaria, Hydrozoa) common in Western Europe. Z. N. (S.) 2493	1986	Cornelius, P F S  | Ostman, C
+412	Napomyza Westwood, 1840 (Insecta, Diptera): proposed conservation by the suppression of Napomyza Curtis, 1837. Z. N. (S.) 2495	1986	Griffiths, Gcd  | Spencer, K A  | Steyskal, G C
+413	Microgaster Latreille, 1804 (Insecta, Hymenoptera): proposed designation of Microgaster australis Thomson, 1895 as type species Z. N. (S.) 2397	1986	Mason, W R M
+414	Sigara scholtzi Fieber,[1860] (Insecta, Heteroptera): proposed conservation by the suppression of Sigara scholtzii Scholtz, 1846. Z. N. (S.) 2494	1986	Jansson, A
+415	Micronecta griseola Horváth, 1899 (Insecta, Heteroptera, Corixidae): proposed conservation by the suppression of Sigara minuta Fabricius, 1794 and Sigara lemana Fieber, 1860. Z. N. (S.) 2519	1986	Jansson, A
+416	Calcarina calcar d'Orbigny, 1839 (Protozoa, Foraminiferida): proposed conservation by the suppression of Calcarina stellata de Ferussac, 1827. Z. N. (S.) 2344	1986	Hansen, H J
+417	Agromyza Fallén, 1810 (Insecta, Diptera): proposed validation of Agromyza reptans Fallén, 1823 as type species Z. N. (S.) 2395	1986	Spencer, K A  | Steyskal, G C
+418	Tropiphorus Schönherr, 1842 (Insecta, Coleoptera): proposed conservation by suppression of Brius Dejean, 1821. Z. N. (S.) 2537	1986	Silfverberg, H
+419	Tetropium Kirby, 1837 (Insecta, Coleoptera, Cerambycidae): proposed conservation by the suppression of Isarthron Dejean, 1835. Z. N. (S.) 2534	1986	Mroczkowski, M
+420	Risomurex Olsson & McGinty, 1958 (Mollusca, Gastropoda): proposed designation of type species. Z. N. (S.) 2507	1986	Kemperman, Tch  | Coomans, H E
+421	Siphamia Weber, 1909 and Siphamia permutata Klausewitz, 1966 (Osteichthyes, Perciformes): proposed conservation by the suppression of Beanea Steindachner, 1902 and Beanea trivittata Steindachner, 1902. Z. N. (S.) 2517	1986	Randall, J E  | Lachner, E A  | Fraser, T H
+422	Cyclaxyra Broun, 1893 (Insecta, Coleoptera): proposed conservation by the suppression of Melanochroa Broun, 1882. Z. N. (S.) 2511	1986	Watt, J C  | Crowson, R A
+423	Sinuitidae Dall, 1913, Macluritidae Fischer, 1885 and Euomphalidae de Koninck, 1881 (Gastropoda, Archaeogastropoda): proposed conservation by suppression of Protowarthiidae Ulrich & Schofield, 1897, Maclureadae Carpenter, 1861, Macluraeidea Gill, 1817 and Schizostomatidae Eichwald, 1817. Z. N. (S.)	1986	Knight, J B  | Batten, R L  | Yochelson, E
+424	Laplysia Viridis Montagu, 1804 (Mollusca, Gastropoda): Conservation Proposee Par La Suppression De Laplisia Viridis Bosc, 1801 Z.n.(S.) 2408	1986	Bouchet, P
+425	Orbicula Cuvier, 1798 (Brachiopoda): proposed suppression. Z. N. (S.) 2545	1986	Brunton, Chc  | Lee, D E
+426	Criopus Poli, 1791 And Criopoderma Poli, 1795 (Brachiopoda): Proposed Suppression. Z.n.(S.) 2546	1986	Brunton, Chc  | Lee, D E
+427	Crania Tuberculata Nilsson, 1826 (Brachiopoda): Proposed Conservation By Suppression Of Craniolites Brattenburgicus Schlotheim, 1820. Z.n.(S.) 2551	1986	Brunton, Chc  | Lee, D E
+428	Trichomonas Donne, 1836 (Protozoa, Mastigophora): Proposed Confirmation Of Spelling. Z.n.(S.) 245	1986	Tubbs, P K
+429	Comment On The Proposed Conservation Of Cephalopholis Argus Schneider, 1801 (Osteichthyes). Z.n.(S.) 2470	1986	Mees, G F
+430	Simia fascicularis Raffles, 1821 (Mammalia, Primates): conserved	1986	Tubbs, P K
+431	Leucaspis Signoret, 1869 (Insecta, Homoptera): conserved	1986	Tubbs, P K
+432	Opinion 1402. Bagrus Bosc, 1816 (Osteichthyes, Siluriformes): conserved	1986	Nomenclature, International Commission On Zoological
+433	Opinion 1403. Lumbricus lacteus Örley, 1881 designated as type species of Octolasion Örley, 1885 (Annelida, Oligochaeta)	1986	Tubbs, P K
+434	Indodorylaimus elongatus Baqri, 1982 designated as type species of Indodorylaimus Ali & Prabha, 1974 (Nematoda, Dorylaimida)	1986	Tubbs, P K
+435	Phalaena stagnata Donovan, 1806 designated as type species of Nymphula Schrank, 1802 (Insecta, Lepidoptera)	1986	Tubbs, P K
+436	Opinion 1407	1986-10-06	
+437	Opinion 1408	1986-10-06	
+438	Opinion 1409	1986-10-06	
+439	Williamia Monterosato, 1884 (Mollusca, Gastropoda): conserved	1986	Tubbs, P K
+440	Drymus ryeii Douglas & Scott, 1865 (Insecta, Hemiptera): neotype set aside	1986	Tubbs, P K
+441	Leptoclinum fulgens Milne Edwards, 1841 designated as type species of Leptoclinum Milne Edwards, 1841 (Tunicata, Ascidiaea)	1986	Tubbs, P K
+442	Delphinus truncatus Montagu, 1821 (Mammalia, Cetacea): conserved	1986	Tubbs, P K
+443	Opinion 1414	1986-10-06	
+444	Opinion 1415	1986-10-06	
+445	Opinion 1416. Cnetha Enderlein, 1921 and Pseudonevermannia Baranov, 1926 (insecta, Diptera): type species designated; Atractocera latipes Meigen, 1804: confirmation of holotype	1986-10-06	Tubbs, P K
+446	Opinion 1417. Chromis Cuvier in Desmaret, 1814 (Osteichthyes, Perciformes): gender confirmed as feminine	1986	Tubbs, P K
+447	Rhabdobon Matheron, 1869 (Reptilia, Ornithischia): proposed conservation by suppression of Rhabdobon Fleischmann, 1831 (Reptilia, Serpentes). Z. N. (S.) 2536	1986	Brinkmann, W
+448	Megalonaias Utterback, 1915 (Mollusca, Bivalvia) proposed conservation by the suppression of Magnonaias Utterback, 1915. Z. N. (S.) 2512	1986	Bogan, A E  | Williams, J D
+449	Ammonites neubergicus Hauer, 1858 (Cephalopoda, Ammonoidea): proposed conservation by the suppression of Ammonites chrishna Forbes, 1846 Z. N. (S.) 2460	1986	Henderson, R A  | Kennedy, W J
+450	Corixa albifrons Motschulsky, 1863 (Insecta, Heteroptera): proposed confirmation of neotype designation. Z. N. (S.) 2520	1986	Jansson, A  | Kerzhner, I M
+451	Dexia Meigen, 1826 (Insecta, Diptera): proposed designation of Musca rustica Fabricius, 1775, as type species. Z. N. (S.) 2252	1986	Crosskey, R W  | Herting, B  | Mesnil, L P  | Wood, D M
+452	Lepralia punctata Hassall, 1841 (Bryozoa, Cheilostomata: proposed designation of a replacement neotype. Z. N. (S.) 2562	1986	Bishop, J D D
+453	Pseudocalanidae Sars, 1901 (Crustacea, Copepoda): proposed precedence over Clausocalanidae Giesbrecht, 1892 Z. N. (S.) 2557	1986	Andronov, V N  | Vyshkvartzeva, N V
+454	Geonemus Schoenherr 1833 And Brachyomus Lacordaire 1863 Insecta Coleoptera Proposal To Maintain Current Usage By Designation Of A Type Species For Geonemus Z.n.s.-2565	1986	Wibmer, G J
+455	Phaulacridium vittatum (Sjöstedt, 1920) (Insecta, Orthoptera): proposed conservation by suppression of Acridium ambulans Erichson, 1842, Trigoniza manca Bolívar, 1898 and Trigoniza australiensis Bolívar, 1898. Z. N. (S.) 2524	1986	Key, K H L
+456	Proposed Amendments To The Code Introducing The Term Nomenclaturally Valid A Useful New Term In Nomenclature Z.n.s.-2513	1986	Melville, R V
+457	Taeniolabis Cope 1882 Mammalia Multituberculata Proposed Designation Of Polymastodon taoensis Cope 1882 As Type Species. Z.n.s.-2529	1986	Simmons, N B
+458	Glyphipterix Hübner,[1825] (Insecta, Lepidoptera): Tinea bergstraesserella Fabricius, 1781 designated as type species	1986	Tubbs, P K
+459	Opinion 1419. Democricetodon Fahlbusch, 1964 (Mammalia: Rodentia): Democricetodon crassus Freudenthal, 1969 designated as type species	1986	Tubbs, P K
+460	Liasis Gray, 1842 (Reptilia, Serpentes): proposed designation of Liasis mackloti Duméril & Bibron, 1844 as type species. Z. N. (S.) 2439	1986	Stimson, A F  | Mcdowell, S B
+461	Filellum serpens (Hassall, 1848) (Cnidaria, Hydrozoa): proposed conservation of both generic and specific names. Z. N. (S.) 2508	1986	Cornelius, Pfs  | Calder, D R
+462	Lycaena mirza Plötz, 1880 (Insecta, Lepidoptera): proposed conservation by the suppression of Lycaena mirza Staudinger, 1874. Z. N. (S.) 2426	1986	Larsen, T B
+463	Paraphytomyza Enderlein, 1936 (Insecta, Diptera): proposed designation of Phytagromyza Luteoscutellata De Meijere, 1924 as type species Z. N. (S.) 2574	1986	Spencer, K A
+464	Heriaeus Simon, 1875 (Arachnida, Araneida): request for confirmation of Thomisus hirtus Latreille, 1819 as type species. Z. N. (S.) 2447	1986	Kraus, O  | Loerbroks, A
+465	Trypanosoma brucei Plimmer & Bradford, 1899 (Protozoa, Mastigophora): proposed confirmation of spelling Z. N. (S.) 2580 (CIOMS case no. 6)	1986	Tollitt, M E
+466	Simulium austeni Edwards 1915 Insecta Diptera Proposed Precedence Over Simulia posticata Meigen 1838	1986	Rubtsov, I A
+467	Simulia ferruginea Wahlberg 1844 Insecta Diptera Proposed Precedence Over Simulia rufa Meigen 1838 And Simulia borealis Zetterstedt 1842	1986	Rubtsov, I A
+468	Belemnites paxillosa Lamarck 1801 Mollusca Coleoidea Proposed Suppression Of Both Generic And Specific Names	1986	Doyle, P  | Riegraf, W
+469	Cobitis Linnaeus, 1758 (Osteichthyes, Cypriniformes): proposed designation of Cobitis taenia Linnaeus, 1758 as type species and request for a ruling on the stem of the family-group name Cobitididae Swainson, 1839. Z. N. (S.) 2566	1986	Kottelat, M
+470	Tribolium castaneum (Herbst, 1797) (Insecta, Coleoptera): proposed conservation by the suppression of Tribolium navale (Fabricius, 1775) Z. N. (S.) 2575	1986	Pope, R D  | Watt, J C
+471	Cornalatus Attems, 1931 (Diplopoda, Polydesmida): proposed designation of Cornalatus permutatus Attems, 1938 as type species. Z. N. (S.) 2438	1986	Hoffman, R L
+472	Opius Wesmael, 1835 (Insecta, Hymenoptera): proposed designation of Opius pallipes Wesmael, 1835 as type species. Z. N. (S.) 2561	1986	Wharton, Robert A
+473	International Commission On Zoological Nomenclature. General Session Of The Commission, Canberra, 15-19 October 1988	1989	Tubbs, P K
+474	International Union Of Biological Sciences. Section On Zoological Nomenclature. Report Of Meeting, Canberra, 14-18 October 1988	1989	Tubbs, P K
+475	Case 2603 Gryllacridoidea Stål, 1874 (Insecta, Orthoptera): proposed precedence over Stenopelmatoidea Burmeister, 1838	1989	Key, K H L
+476	Ptochus Schoenherr 1826 Insecta Coleoptera Proposed Conservation By Confirmation Of Marshall's 1916 Designation Of Ptochus porcellus Boheman In Schoenherr 1834 As The Type Species	1989	Thompson, R T
+477	Monograptus exiguus Graptolithina Proposed Conservation Of Accepted Usage By The Citation Of Lapworth 1876 As Author	1989	Loydell, D K
+478	Heliastes ovalis F. Steindachner 1900 Currently Chromis ovalis Osteichthyes Perciformes Proposed Conservation Of The Specific Name	1989	Follett, W I  | Randall, J E
+479	Comment On The Proposal To Designate A New Type Species For Septotrochammina Zheng, 1979 (Foraminiferida)	1989	Banner, F T
+480	Comments On The Proposed Order Of Precedence Of The Family group Names Acrididae, Oedipodidae And Locustidae (Insecta, Orthoptera) (3.)	1989	Kerzhner, I M
+481	Comment On The Specific Name (Arnouxii Dumeril, 1851 Or Pelagica Girard, 1857) Of A Pacific basin Gekkonid Lizard	1989	Kluge, A C
+482	Comments On The Proposed Conservation Of The Spelling Semioptera Wallacii Gray, 1859 (Aves, Paradisaeidae)	1989	Lecroy, M  | Block, W J
+483	Comment On The Proposed Suppression Of Rallus Nigra Miller, 1784 (Aves)	1989	Walters, M P
+484	Opinion 1518	1989-03-29	
+485	Opinion 1519	1989-03-29	
+486	Opinion 1520	1989-03-29	
+487	Opinion 1521	1989-03-29	
+488	Opinion 1522	1989-03-29	
+489	Opinion 1523	1989-03-29	
+490	Opinion 1524	1989-03-29	
+491	Opinion 1525	1989-03-29	
+492	Opinion 1526	1989-03-29	
+493	Opinion 1527	1989-03-29	
+494	Opinion 1528	1989-03-29	
+495	Opinion 1529	1989-03-29	
+496	Opinion 1530	1989-03-29	
+497	Opinion 1531	1989-03-29	
+498	Opinion 1532	1989-03-29	I C Z N
+499	Opinion 1533	1989-03-29	
+500	Opinion 1534	1989-03-29	
+501	Opinion 1535	1989-03-29	
+502	Marssonopora Lang 1914 Bryozoa Cheilostomata Proposed Designation Of Membranipora densispina Levinsen 1925 As The Type Species	1989	Taylor, P D  | Viogt, E
+503	Valanginites Sayn In Kilian 1910 Cephalopoda Ammonoidea Confirmation Of The Author Of The Genus And Of Ammonites nucleus Roemer 1841 As Its Type Species	1989	Rawson, P F  | Kemper, E
+504	Case 2624. Ranguna Bott 1966 and Larnaudia Bott 1966 (Crustacea, Decapoda): proposed fixation of Thelphusa longipes A. Milne Edwards, 1869 and Thelphusa larnaudii A. Milne Edwards, 1869 as the respective type species	1989	Türkay, M  | Naiyanetr, P
+505	Case 2647. Heliophanus Kochi Simon, 1868 (Arachnida, Araneae): Proposed Conservation Of The Specific Name	1989	Proszynski, J
+506	Saissetia Deplanche 1859 Insecta Homoptera Proposed Designation Of Lecanium coffeae Walker 1852 As The Type Species	1989	
+507	Fonscolombia Lichtenstein 1877 Insecta Homoptera Proposed Designation Of Fonscolombia graminis Lichtenstein 1877 As The Type Species	1989	
+508	Protocalliphora Hough 1899 Insecta Diptera And Its Type Species Musca azurea Fallen 1817 Proposed Conservation Of Usage By Designation Of A Replacement Lectotype	1989	Sabrosky, C W
+509	Osteoglossum Cuvier, 1829 (Osteichthyes, Osteoglossiformes): proposed fixation of O. bicirrhosum Cuvier, 1829 as the name of the type species	1989	Kottelat, Maurice
+510	Comment opposing the proposed conservation of |Physcus| Howard, 1895 (Insecta, Hymenoptera) by the suppression of |Coccobius| Ratzeburg, 1852	1989	Lasalle, J  | Bouček, Z
+511	Opinion 1536	1989-06-23	
+512	Opinion 1537	1989-06-23	
+513	Opinion 1538	1989-06-23	
+514	Opinion 1539	1989-06-23	
+515	Opinion 1540	1989-06-23	
+516	Opinion 1541	1989-06-23	
+517	Opinion 1542	1989-06-23	
+518	Opinion 1543	1989-06-23	
+519	Opinion 1544	1989-06-23	
+520	Opinion 1545	1989-06-23	
+521	Opinion 1546	1989-06-23	
+522	Opinion 1547	1989-06-23	
+523	Opinion 1548	1989-06-23	
+524	Ixodes angustus Neumann 1899 And Ixodes woodi Bishopp 1911 Arachnida Acari Proposed Conservation By The Replacement Of The Holotype Of Ixodes angustus By A Neotype	1989	Robbins, R G  | Keirans, J E
+525	Helophorus brevipalpis Bedel 1881 Insecta Coleoptera Proposed Precedence Over Helophorus creticus Kiesenwetter 1858	1989	Angus, R B
+526	Helophorus obscurellus Poppius 1907 Insecta Coleoptera Proposed Precedence Over Helophorus fausti Kuwert 1887	1989	Angus, R B
+527	Micropterus patachonicus King 1831 And Anas pteneres Forster 1844 Both Currently In Tachyeres Owen 1875 Aves Anseriformes Proposed Conservation Of The Specific Names	1989	Livezey, B C
+528	Use Versus Priority In Zoological Nomenclature: A Contribution To The Discussion	1989	Melville, R V
+529	Comments On The Proposed Conservation Of Drepanites Mojsisovics, 1893 And Hyphoplites Spath 1922 (Mollusca, Cephalopoda). (1)	1989	Wright, C W
+530	Comment On The Proposed Conservation Of Accepted Usage Of Monograptus Exiguus (Graptolithina) By The Citation Of Lapworth (1876) As Author	1989	Sudbury, M
+531	Opinion 1549	1989-09-29	
+532	Opinion 1550	1989-09-29	
+533	Opinion 1551. Hypsibius Ehrenberg, 1848 (Tardigrada): Macrobiotus dujardini Doyère, 1840 designated as the type species	1989-09-29	I C Z N
+534	Opinion 1552	1989-09-29	
+535	Opinion 1553	1989-09-29	
+536	Opinion 1554	1989-09-29	
+537	Opinion 1555	1989-09-29	
+538	Opinion 1556	1989-09-29	
+539	Opinion 1557	1989-09-29	
+540	Opinion 1558	1989-09-29	
+541	Opinion 1559	1989-09-29	
+542	Opinion 1560	1989-09-29	
+543	Opinion 1561	1989-09-29	
+544	Opinion 1562	1989-09-29	
+545	Opinion 1563	1989-09-29	I C Z N
+546	Opinion 1564	1989-09-29	
+547	Opinion 1565	1989-09-29	
+548	Opinion 1566. Megaloceros Brookes, 1828 (Mammalia, Artiodactyla): original spelling emended	1989	Nomenclature, International Commission On Zoological
+549	Case 2637. Buthus vittatus (currently Centruroides vittatus; Arachnida, Scorpionida): proposed recognition of Wood 1863 as author of the specific name and designation of a neotype, and Centrurus hentzi (currently Centruroides hentzi) Banks 1904: proposed conservation of the specific name	1989	Stockwell, Scott A  | Levi, Herbert W
+550	Shoemakerella Pirlot 1936 Crustacea Amphipoda Proposed Designation Of Lysianax cubensis Stebbing 1897 As The Type Species	1989	Lowry, J K  | Stoddart, H E
+551	Curculio viridicollis Fabricius 1792 Currently Phyllobius viridicollis Insecta Coleoptera Proposed Conservation Of The Specific Name And Rhyncolus Germar 1817 Proposed Designation Of Curculio ater Linnaeus 1758 As The Type Species	1989	Thompson, R T
+552	Case 2676. Ochthebius Leach 1815 (Insecta, Coleoptera): proposed conservation of Elophorus marinus Paykull 1798 as the type species	1989	Hansen, M
+553	Exoprosopa Macquart, 1840 (Insecta, Diptera): proposed confirmation of Anthrax pandora Fabricius, 1805 as the type species	1989	Evenhuis, N L  | Greathead, D J
+554	Musca heraclei Linnaeus 1758 Currently Euleia heraclei Insecta Diptera Proposed Conservation Of Heraclei As The Correct Spelling Of The Specific Name	1989	White, I M  | Seymour, P R
+555	Callionymus pusillus Delaroche 1809 Osteichthyes Perciformes Proposed Conservation Of The Specific Name	1989	Fricke, R
+556	Atheris Cope 1862 Reptilia Serpentes Proposed Conservation And Proposed Confirmation Of Vipera chlorechis Pel 1851 As The Valid Name Of The Type Species	1989	Broadley, D G
+557	Report On The Proposed Conservation Of The Family group Name Belemnitidae D'orbigny 1845 Mollusca Coleoidea With Suppression Of The Generic Name Belemnites Lamarck 1799 And The Designation Of Passaloteuthis Lissajous 1915 As The Type Genus	1989	Tubbs, P K
+558	An appraisal of the zoology of C. S. Rafinesque	1988	Wheeler, Alwynne C
+559	Case 2609 Madrepora Umax Esper, 1797 (currently Herpolitha Umax) and Fungia talpina Lamarck, 1801 (currently Polyphyllia talpina; both Cnidaria, Anthozoa): proposed conservation of the specific names	1988	Hoeksema, B W
+560	Coenobita Latreille, 1829 (Crustacea, Decapoda): proposed conservation	1988	Morgan, Gary J  | Holthuis, L B
+561	Sphaeroma hookeri Leachn 1814 (currently Lekanesphaera hookeri; Crustacea, Isopoda): proposed conservation of the specific name	1988	Jacobs, B J M  | Holthuis, L B
+562	Elachista Treitschke, 1833 (Insecta, Lepidoptera): proposed conservation, and confirmation of type species designation	1988	Nielsen, E S  | Nye, Iwb
+563	Colias alfacariensis Ribbe, 1905 (Insecta, Lepidoptera): proposed availability as a senior synonym of Colias australi Verity, 1911	1988	Whitebread, S E  | Rezbanyai-Reser, L  | Geiger, H
+564	Ictiobus Rafinesque, 1820 (Osteichthyes, Cypriniformes): proposed conservation	1988	Bailey, R M  | Eschmeyer, W N
+565	Hydrolycus Müller & Troschel, 1844 (Osteichthyes, Cypriniformes): confirmation proposée de Hydrocyon scomberoides Cuvier, 1819 comme espèce-type. Case 2556	1988	Gery, J  | Mahnert, V
+566	Ascalabotes gigas Bocage, 1875 (currently Tarentola gigas; Reptilia, Squamata): proposed conservation of the specific name	1988	Schleich, H H
+567	Euryotis brantsii A. Smith, 1834 (currently Parotomys brantsii; Mammalia, Rodentia): proposed conservation of the specific name	1988	Rookmaaker, L C  | Meester, J
+568	Use Versus Priority: Comments On A Paper By P.f.s. Cornelius, With Alternative Proposals For The Conservation Of Well known Names	1988	Key, Khl
+569	Pragmatypes And The Role Of The Commission: A Reply To Dr P.k. Tubbs	1988	Disney, Rhl  | Erzinclioglu, Y Z
+570	Comments On The Proposed Suppression Of Belemnites Lamarck, 1799, And The Conservation Of Belemnitidae D'orbigny, 1845. (Case 2571: See Bzn	1988	
+571	Comment On The Proposed Conservation Of Conus Floridanus Gabb, 1869	1988	Harasewych, M G  | Petit, R E
+572	Opinion 1464	1988-03-25	
+573	Opinion 1465	1988-03-25	
+574	Opinion 1466	1988-03-25	
+575	Opinion 1467	1988-03-25	
+576	Opinion 1468	1988-03-25	
+577	Opinion 1469	1988-03-25	
+578	Opinion 1470	1988-03-25	
+579	Opinion 1471	1988-03-25	
+580	Opinion 1472	1988-03-25	
+581	Opinion 1473	1988-03-25	
+582	Opinion 1474	1988-03-25	
+583	Opinion 1475	1988-03-25	
+584	Opinion 1476	1988-03-25	
+585	Opinion 1477	1988-03-25	
+586	Opinion 1478	1988-03-25	
+587	Opinion 1479	1988-03-25	
+588	Opinion 1480	1988-03-25	
+589	Opinion 1479. Antispila Hübner, [1825] (Insecta, Lepidoptera): Antispila stadtmuellerella Hübner, [1825] designated as type species. 		I C Z N
+590	Opinion 1481	1988-03-25	
+591	Opinion 1482	1988-03-25	
+592	Opinion 1483	1988-03-25	
+593	Bubo Dumeril, 1806 And Surnia Dumeril, 1806 (Aves): Official List Entries Completed	1988	
+594	Changes in North American fish names, especially as related to the International Code of Zoological Nomenclature, 1985	1988	Bailey, R M  | Robins, C R
+595	Note by P. K. Tubbs, Executive Secretary of the International Commission on Zoological Nomenclature	1988	Tubbs, P K
+596	Nonion de Montfort, 1808 (Faraminiferida): proposed designation of Nautilus faba Fichtel & Moll, 1798 as the type species	1988	Hansen, H J  | Rogl, F
+597	Borelis De Montfort 1808 Foraminiferida Proposed Conservation	1988	Hansen, H J  | Rogl, F
+598	Palaemon longirostris H. Milne Edwards 1837 Crustacea Decapoda Proposed Conservation Of The Specific Name	1988	Holthuis, L B
+599	Liparidae Gill, [30 September] 1861 (Osteichthyes, Scorpaeniformes): proposed confirmation of spelling	1988	Vogt, K D
+600	Scorpaenichthys marmoratus Girard, 1854 (Osteichthyes, Scorpaeniformes): proposed conservation of the specific name and confirmation of authorship	1988	Lea, R N  | Eschmeyer, William N
+601	Ameiurus Rafinesque, 1820 (Osteichthyes, Siluriformes): proposed designation of Silurus lividus Rafinesque, 1820 (= Pinelodus natalis Lesueur, 1819) as the type species	1988	Bailey, R M  | Robins, C R
+602	Hyla chrysoscelis Johnson, 1961 (Amphibia, Anura): proposed conservation and designation of a neotype	1988	Smith, H M  | Fitzgerald, K T  | Guillette, L J J R
+603	Camelus Linnaeus, 1758 (Mammalia, Artiodactyla): proposed designation of Camelus bactrianus Linnaeus, 1758 as type species	1988	Erridge, N
+604	Comment On The Proposed Conservation Of The Name Ctenopoma Oxyrhynchum Boulenger, 1902 (Osteichthyes, Perciformes) By The Suppression Of C. Weeksii Boulenger, 1896. (Case 2595: See Bzn @44@: 192-193). Reply	1988	Norris, S M
+605	Comment On The Suggested Introduction Of 'protected Works'. (See Bzn	1988	Manuel, R L
+606	Opinion 1484	1988-06-24	
+607	Opinion 1485	1988-06-24	
+608	Opinion 1486	1988-06-24	
+609	Opinion 1487	1988-06-24	
+610	Opinion 1488	1988-06-24	
+611	Opinion 1489	1988-06-24	
+612	Opinion 1490	1988-06-24	
+613	Opinion 1491	1988-06-24	
+614	Opinion 1492	1988-06-24	
+615	Opinion 1493	1988-06-24	
+616	Opinion 1494	1988-06-24	
+617	Opinion 1495	1988-06-24	
+618	Opinion 1496	1988-06-24	
+619	Opinion 1497. Opim Wesmael, 1835 (Insecta, Hymenoptera): Opius pallipes Wesmael, 1835 designated as type species 	1988-06-24	I C Z N
+620	Opinion 1498	1988-06-24	
+621	Opinion 1499	1988-06-24	
+622	Opinion 1500	1988-06-24	
+623	Increased Nomenclatural Stability Through Lists Of Names In Current Use	1988	Hawksworth, D L
+624	Septotrochammina Zheng 1979 Foraminiferida Proposed Designation Of Remaneica gonzalezi Seiglie 1964 As The Type Species	1988	Loeblich, A R Jr  | Tappan, Loeblich H
+625	Coryphium angusticolle Stephens 1834 Insecta Coleoptera Proposed Conservation Of Both The Generic And Specific Names	1988	Zerche, L
+626	Case 2632. Tachina orbata Wiedemann, 1830 (currently Perihaea orbata; Insecta, Diptera): proposed confirmation of neotype designation	2632	Crosskey, R W  | Shima, H
+627	Tenthredo zonula Klug 1817 Insecta Hymenoptera Proposed Conservation Of The Specific Name	1988	Taeger, A
+628	Saccopharynx Mitchill, 1824 (Osteichthyes, Saccopharyngiformes): proposed conservation	1988	Eschmeyer, William N  | Robins, C Richard
+629	Case 2616 Ichthyophiidae Taylor, 1968 (Amphibia, Gymphiona): proposed conservation	1988	Wilkinson, Mark  | Nussbaum, Ronald A
+630	Thorius pennatulus Cope, 1869 (Amphibia, Caudata): proposed conservation of the specific name	1988	Smith, Hobart M  | Hanken, James
+631	Semioptera wallacii Gray 1859 Aves Paradisaeidae Proposed Confirmation As The Correct Spelling	1988	Lecroy, M
+632	Comment On The Proposed Conservation Of Borelis De Montfort, 1808	1988	Banner, F T
+633	Comment On The Proposal To Set Aside The Status Of The Putative Type Specimen Of Silurus Felis Linnaeus, 1766 (Currently Ariopsis Felis: Osteichthyes, Siluriformes)	1988	Wheeler, A
+634	Comment On The Family Name For The Storm Petrels (Aves)	1988	Bourne, Wrp
+635	Opinion 1501	1988-09-23	
+636	Opinion 1502	1988-09-23	
+637	Opinion 1503	1988-09-23	
+638	Opinion 1504	1988-09-23	
+639	Opinion 1505	1988-09-23	
+640	Opinion 1506	1988-09-23	
+641	Opinion 1507. Musca marginalis Wiedmann, 1830 (currently Chrysomya marginalis; Insecta, Diptera): specific name conserved	1988-09-23	Nomenclature, International Commission On Zoological
+642	Opinion 1508	1988-09-23	
+643	Opinion 1509	1988-09-23	
+644	Opinion 1510	1988-09-23	
+645	Opinion 1511	1988-09-23	
+646	Opinion 1512	1988-09-23	
+647	Opinion 1513. Synapturanus Carvalho, 1954 (Amphibia, Anura): Synapturanus  mirandaribeiroi Nelson & Lescure, 1975 designated as the type species	1988-09-23	N, I C Z
+648	Opinion 1514	1988-09-23	
+649	Opinion 1515	1988-09-23	
+650	Opinion 1516	1988-09-23	
+651	Opinion 1517	1988-09-23	
+652	Orbitolina d'Orbigny, 1850 (Foraminiferida): proposed confirmation of Orbulites concava Lamarck, 1816 as the type species	1988	Schroeder, R  | Simmons, M D
+653	Case 2653 Hapalorhynchus beadlei Goodman 1987 Trematoda Digenea Proposed Replacement Of The Holotype By A Lectotype	1988	Platt, T R
+654	Phyllodoce (Carobia) rubiginosa Saint-Joseph, 1988 (Currently also Nereiphylla rubiginosa; Annelida, Polychaeta): proposed conservation of the specific name	1988	Pleijel, F
+655	Case 2636 Fizesereneia Takeda And Tamura 1980 Crustacea Decapoda Proposed Confirmation Of Troglocarcinus heimi Fize And Serene 1956 As The Type Species	1988	Kropp, R K
+656	Bodotria Goodsir, 1843 (Crustacea, Cumacea): proposed conservation	1988	Bacescu, M  | Holthuis, L B
+657	Iphinoe Bate, 1856 (Crustacea, Cumacea): proposed conservation	1988	Bacescu, M  | Holthuis, L B
+658	Aleuropteryx Löw, 1885 (Insecta, Neuroptera): proposed designation of Aleuropteryx loewii Klapálek, 1894 as the type species	1988	Oswald, J D  | Meinander, M
+659	Sialis Latreille, 1802 (Insecta, Megaloptera): proposed conservation by the confirmation of Phryganea phalaenoides Linnaeus, 1758 as the type species of Semblis Fabricius, 1775 (Insecta, Trichoptera)	1988	Oswald, J D
+660	Ophonus Dejean, 1821 and Tachys Dejean 1821 (Insecta, Coleoptera): proposed designation of type species	1988	Silfverberg, H
+661	Papilio carthami Hübner,[1813] and Syrichthus serratulae major Staudinger, 1875 (currently both in Pyrgus; Insecta, Lepidoptera): proposed conservation of the names carthami and major	1988	De Jong, R
+662	Case 2654 Rapport Sur Les Myodaires Du Docteur Robineau Desvoidy 1826 Proposed Nomenclatural Suppression	1988	Sabrosky, C W
+663	Problems in the Nomenclature of Higher Taxonomic Categories	1991	Starobogatov, Ya I
+664	Amphiporus Ehrenberg, 1831 (Nemertea): proposed designation of Planaria lactiflorea Johnston, 1828 as the type species	1991	Gibson, R  | Crandall, F B
+665	Haustator Montfort, 1810 (Mollusca, Gastropoda): proposed conservation	1991	Petit, R E  | Le Renard, J
+666	Laeocochlis Dunker And Metzger 1874 Mollusca Gastropoda Proposed Conservation As The Correct Spelling	1991	Heppell, D
+667	Ceratites nodosus (Cephalopoda, Ammonoidea): proposed attribution of the specific name to Schlotheim, 1813, and proposed designation of a lectotype	1991	Urlichs, M
+668	Vatellus Aubé, 1837 (Insecta, Coleoptera): proposed conservation	1991	Nilsson, A N
+669	Coccinella undecimnotata Schneider,[1792] (currently Hippodamia (Semiadalia) undecimnotata; Insecta, Coleoptera): proposed conservation of the specific name	1991	Pope, R D
+670	Plusia flacifera Kirby, 1837 (currently Anagrapha falcifera; Insecta, Lepidoptera): proposed conservation of the specific name	1991	Lafontaine, J D  | Poole, R W
+671	Simulium juxtacrenobium Insecta Diptera A Proposal That Availability Of The Specific Name Be Taken From The Intended Original Description By Bass And Brockhouse 1990	1991	Bass, J A B  | Brockhouse, C
+672	Vipio Latreille, 1804 (Insecta, Hymenoptera): proposed designation of Agathis longicauda Boheman, 1853 as the type species	1991	Wharton, R A  | Mason, Wrm
+673	Natrix gemonensis Laurenti, 1768 (currently Coluber gemonensis), Coluber viridiflavus Lacépède, 1789 and Coluber helvetivus Lacépède, 1789 (currently Natrix natrix helvetica) (Reptilia, Serpentes): proposed conservation of the specific names	1991	Schätti, B  | Stimson, A F  | Henle, K
+674	Comments On The Proposed Precedence Of Bathynomus A. Milne edwards, 1879 (Crustacea, Isopoda) Over Palaega Woodward, 1870	1991	De A Rodrigues, S
+675	Comment on the conservation of Semblis Fabricius, 1775 (Insecta, Trichoptera) by the designation of Phryganea phalaenoides Linnaeus, 1758 as the type species	1991	Kerzhner, I M
+676	Comments On The Proposed Conservation Of Acanthophthalmus Van Hasselt In Temminck, 1824 (Osteichthyes, Cypriniformes) With Cobitis Kuhlii Valenciennes In Cuvier & Valenciennes, 1846 As The Type Species	1991	Ng, Pkl  | Munro, A D  | Lim, Kkp
+677	Opinion 1623	1991-03-26	
+678	Opinion 1624	1991-03-26	
+679	Opinion 1625	1991-03-26	
+680	Opinion 1626	1991-03-26	
+681	Opinion 1627	1991-03-26	
+682	Opinion 1628	1991-03-26	
+683	Opinion 1629	1991-03-26	
+684	Opinion 1630	1991-03-26	
+685	Opinion 1631	1991-03-26	
+686	Opinion 1632	1991-03-26	
+687	Opinion 1633	1991-03-26	
+688	Opinion 1634	1991-03-26	
+689	How conservative should nomenclature be? Comments on the principle of priority	1991	Ng, Pkl
+690	Fusus Helbling, 1779 (Mollusca, Gastropoda): proposed confirmation of unavailability	1991	Petit, R E  | Wilson, D
+691	Cycloceras M'Coy, 1844 (Mollusca, Nautiloidea): proposed designation of C. laevigatum M'Coy, 1844 as the type species, and proposed designation of a neotype for C. laevigatum	1991	Histon, K
+692	Phyllodoce Lamarck, 1818 and Polyodontes de Blainville, 1828 (Annelida, Polychaeta): proposed conservation	1991	Pleijel, Fredrik
+693	Chelifer museorum Leach, 1817 (currently Cheiridium museorum; Arachnida, Pseudoscorpionida): proposed conservation of the specific name	1991	Harvey, M S
+694	Goniosoma conspersum Perty, December 1833 (currently Mitobates conspersus; Arachnida, Opiliones): proposed conservation of the specific name	1991	Kury, A B
+695	Histoire abrégée des insectes qui se trouvent aux environs de Paris (Geoffroy, 1762): proposed conservation of some generic names (Crustacea and Insecta)	1991	Kerzhner, I M
+696	Rhinapion Beguin-Billecocq, 1905 (Insecta, Coleoptera): proposed conservation	1991	Alonso-Zarazaga, M A  | Wanat, M
+697	Brahmaea Walker, 1855 (Insecta, Lepidoptera): proposed confirmation of Bombyx certhia Fabricius, 1793 as the type species	1991	N\ässig, W A  | Nye, Iwb
+698	Comment On The Proposed Precedence Of Polygyridae Pilsbry, 1895 Over Mesodontidae Tryon, 1866 (Mollusca, Gastropoda)	1991	Heppell, D
+699	Comment On The Proposed Conservation Of Proptera Rafinesque, 1819	1991	Smith, D G
+700	Comments On The Proposed Conservation Of Bruchus Linnaeus, 1767, Ptinus Linnaeus, 1767, And Mylabris Fabricius, 1775 (Insecta, Coleoptera)	1991	Kerzhner, I M  | Kirejtshuk, A G
+701	Comments On The Need For Stability In Fish Family group Names	1991	Nelson, J S
+702	Comment On The Proposed Precedence Of Homalopteridae Bleeker, 1859 Over Balitoridae Swainson, 1839 (Osteichthyes, Cypriniformes)	1991	Ng, Pkl  | Lim, Kkp
+703	Comments On The Proposed Conservation Of The Specific Name Of Rivulus Marmoratus Poey, 1880 (Osteichthyes, Cyprinodontiformes)	1991	Seegers, L
+704	Comments On The Suppression Of Epicrium Wagler, 1828 And Epicriidae Fitzinger, 1843 (Amphibia, Gymnophiona)	1991	Dubois, A
+705	Comments On The Proposed Conservation Of The Specific Name Of Coccyzus Euleri Cabanis, 1873 (Aves, Cuculiformes)	1991	Banks, R C
+706	Comments On The Proposed Conservation Of Phororhacos Ameghino, 1889	1991	Olson, S L
+707	Comments On The Proposed Conservation Of Phororhacos Ameghino, 1889	1991	Bock, W J
+708	Comments On The Family Name For The Storm Petrels (Aves)	1991	Bock, W J
+709	Opinion 1635	1991-06-27	
+710	Opinion 1636	1991-06-27	
+711	Opinion 1637	1991-06-27	
+712	Opinion 1638	1991-06-27	
+713	Opinion 1639	1991-06-27	
+714	Opinion 1640. Ranguna Bott, 1966 and Larnaudia Bott, 1966 (Crustacea, Decapoda): Potamon rangoonensis Rathbun, 1904 and Thelphusa larnaudii A. Milne Edwards, 1869 confirmed as the respective type species	1991-06-27	I C Z N
+715	Opinion 1641	1991-06-27	
+716	Opinion 1642	1991-06-27	
+717	Opinion 1643. Ceratopogon puncticollis Becker, 1903 (currently Culicoides puncticollis;  Insecta, Diptera): given precedence over Ceratopogon algecirensis  StrobI, 1900	1991-06-27	I C Z N
+718	Opinion 1644	1991-06-27	
+719	Opinion 1645	1991-06-27	
+720	Opinion 1646	1991-06-27	
+721	Opinion 1647	1991-06-27	
+722	Opinion 1648	1991-06-27	
+723	Ptychagnostus Jaekel 1909 And Glyptagnostus Whitehouse 1936 Trilobita Proposed Conservation Of Accepted Usage	1991	Shergold, J H  | Laurie, J R
+724	Asaphus eichwaldi Fischer Von Waldheim In Eichwald 1825 Currently Paladin eichwaldi Trilobita Proposed Conservation Of Neotype Designation	1991	Hahn, G
+725	J.c. Megerle's 1801-1805 Auction Catalogues Of Insects Proposed Suppression With Conservation Of The Specific Names Of Saperda alboguttata Megerle 1803 Now In Apomecyna Coleoptera And Hippobosca variegata Megerle 1803 Diptera	1991	Kerzhner, I M
+726	Paolia vetusta Smith 1871 Insecta Protorthoptera Proposed Replacement Of Neotype By Rediscovered Holotype	1991	Maples, C G
+727	Eurymeloides Ashmead 1889 Insecta Homoptera Proposed Confirmation Of Eurymela bicincta Erichson 1842 As The Type Species And Designation Of A Neotype For Eurymela bicincta	1991	Stevens, M M  | Fletcher, M J
+728	Scoparipes Signoret 1880 Insecta Heteroptera Proposed Confirmation Of Cydnus latipes Westwood 1837 As The Type Species	1991	Lis, J A
+729	Diabrotica undecimpunctata Mannerheim 1843 Insecta Coleoptera Proposed Conservation Of The Specific Name And Of The Subspecific Name Howardi Barber 1947	1991	Tubbs, P K
+730	Case 2767. Drosophila hydei Sturtevant, 1921 (Insecta, Diptera): proposed conservation of the specific name	1991	Vilela, C R  | Bächli, G
+731	Chrysops atlanticus Pechuman 1949 Insecta Diptera Proposed Conservation Of The Specific Name	1991	Chainey, J E
+732	Streptograptus Yin 1937 Graptolithina Proposed Designation Of Graptolithus plumosus Baily 1871 As The Type Species	1991	Loydell, D K  | Xu, C
+733	Amphiuma tridactylum Cuvier 1827 Amphibia Caudata Proposed Conservation Of The Specific Name	1991	Dundee, H A
+734	Ichthyosaurus trigonus Owen 1840 Currently Macropterygius trigonus Reptilia Ichthyopterygia Proposed Replacement Of Neotype By Rediscovered Holotype	1991	Spamer, E E  | Torrens, H S
+735	Comments On The Proposed Confirmation Of A Lectotype For Lindholmiola Barbata (Ferussac, 1821 Or 1832) (Mollusca, Gastropoda)	1991	Kadolsky, D
+736	Comments On The Proposed Confirmation Of Unavailability Of The Name Fusus Helbling, 1779 (Mollusca, Gastropoda)	1991	Holthuis, L B
+737	Comments On The Proposed Conservation Of The Specific Name Of Artemia Franciscana Kellogg, 1906 (Crustacea, Branchiopoda)	1991	Williams, A B
+738	Comments On The Proposed Designation Of Agathis Longicauda Boheman, 1853 As The Type Species Of Vipio Latreille, 1804 (Insecta, Hymenoptera)	1991	Achterberg, C Van
+739	Comment On The Need For Stability In Fish Family group Names	1991	Paxton, J R  | Leis, J M
+740	Comments On The Proposed Conservation Of Acanthophthalmus Van Hasselt In Temminck, 1824 (Osteichthyes, Cypriniformes) With Cobitis Kuhlii Valenciennes In Cuvier & Valenciennes, 1846 As The Type Species	1991	Pethiyagoda, R
+741	Comments On The Proposed Fixation Of Masculine Gender For The Generic Name Lepomis Rafinesque, 1819 (Osteichthyes, Perciformes)	1991	Bailey, R M
+742	Comments On The Proposed Conservation Of The Specific Name Coccyzus Euleri Cabanis, 1873 (Aves, Cuculiformes)	1991	Willis, E O  | Oniki, Y
+743	Opinion 1649	1991-09-30	
+744	Opinion 1650	1991-09-30	
+745	Opinion 1651	1991-09-30	
+746	Opinion 1652	1991-09-30	
+747	Opinion 1653. Mirochernes Beier, 1930 (Arachnida, Pseudoscorpionida): Chelanops dentatus Banks, 1895 confirmed as the type species	1991-09-30	Nomenclature, International Commission On Zoological
+748	Opinion 1654	1991-09-30	
+749	Opinion 1655	1991-09-30	
+750	Opinion 1656	1991-09-30	
+751	Opinion 1657	1991-09-30	
+752	Opinion 1658	1991-09-30	
+753	Opinion 1659	1991-09-30	
+754	Opinion 1660	1991-09-30	
+755	Opinion 1661	1991-09-30	
+756	International Commission On Zoological Nomenclature. General Session Of The Commission, Amsterdam, 2-6 September 1991	1991	Tubbs, P K
+757	I.u.b.s. Section Of Zoological Nomenclature. Report Of Meeting, Ambsterdam, 6 September 1991	1991	Tubbs, P K
+758	The International Commission On Zoological Nomenclature: What It Is And How It Operates	1991	Tubbs, P K
+759	Platyscelis Latreille, 1818 (Insecta, Coleoptera): proposed designation of Tenebrio hypolithus Pallas, 1781 as the type species, so conserving Oodescelis Motschulsky, 1845	1991	Egorov, L V
+760	Schizopus Le Conte, 1858 (Insecta, Coleoptera): proposed conservation	1991	Nelson, G H
+761	Eristalis Latreille, 1804 Helophilus Fabricius, 1805, Xylota Meigen, 1822 and Eumerus Meigen, 1822 (Insecta, Diptera): proposed conservation	1991	Zatwarnicki, T
+762	Cheilosia Meigen, 1822 and Pyrophaena Schiner, 1860 (Insecta, Diptera): proposed conservation	1991	Barkalov, A V  | Kerzhner, I M
+763	Anniella pulchra Gray, 1852 (Reptilia, Squamata): proposed designation of a neotype	1991	Murphy, R W  | Smith, H M
+764	Anas arcuata Horsfield, 1824 (currently Dendrocygna arcuata; Aves, Anseriformes): proposed conservation of the specific name	1991	Gentry, A
+765	Comment On The Proposed Conservation Of Laeocochlis Dunker And Metzger 1874 Mollusca Gastropoda As The Correct Spelling	1991	Bouchet, P  | Waren, A
+766	Comment On The Proposed Conservation Of The Specific Name Of Mitobates conspersus Perty 1833 Arachnida Opiliones	1991	Holthuis, L B
+767	Comments On The Proposed Conservation Of Cryptus Fabricius 1804 Insecta Hymenoptera	1991	Townes, H
+768	Comments On The Proposed Designation Of Agathis longicauda Boheman 1853 As The Type Species Of Vipio Latreille 1804 Insecta Hymenoptera	1991	Mason, W R M
+769	Comments On The Proposed Precedence Of Homalopteridae Bleeker 1859 Over Balitoridae Swainson 1839 Osteichthyes Cypriniformes	1991	Kottelat, M
+770	Comment On The Proposed Precedence Of Ichthyophiidae Taylor 1968 Amphibia Gymnophiona Over Epicriidae Fitzinger 1843	1991	Smith, H M
+771	Three works by Richard W. Wells and C. Ross Wellington: proposed suppression for nomenclatural purposes	1991	Nomenclature, International Commission On Zoological
+772	A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species	1992	
+773	Autumnal Mecoptera of southeastern United States	1993	
+774	Revision of the bee genus Braunsapis in the Australian region (Hymenoptera: Xylocopinae: Allodapini)	1993	
+775	Studies of the phylogeny and classification of long-tongued bees (Hymenoptera: Apoidea)	1993	
+776	Species-groups and cladistic analysis of the cleptoparastic [sic] bee genus Nomada (Hymenoptera: Apoidea)	1994	
+777	A revision of the New World Trachusa, subgenera Ulanthidium and Trachusomimus (Hymenoptera: Megachilidae)	1994	Thorp, Robbin W  | Brooks, Robert W
+778	The classification of Old World Anthidiini (Hymenoptera, Megachilidae)	1994-10-20	Michener, Charles D  | Griswold, Terry L
+779	Amphibians and reptiles from northern Departamento Loreto, Peru: Taxonomy and biogeography	1995	Duellman, W E  | Mendelson, J R
+780	Phylogenetic relationships and classification of Exomalopsini with a new tribe Teratognathini (Hymenoptera: Apoidea)	1995	
+781	Revision of the Neotropical termite genus Syntermes Holmgren (Isoptera: Termitidae)	1995-11-10	Constantino, Reginaldo
+782	Descriptions and distributional records of American Mecoptera. 4	1996	
+783	Phylogeny and revision of the genera of Cryptophagidae (Coleoptera: Cucujoidea)	1996-07-05	Leschen, Ronald A B
+784	Nomenclatural studies on the British Pompilidae (Hymenoptera)	1979-01-25	Day, M C
+785	Clothes-moths of the Tinea pellionella complex: a revision of the world's species (Lepidoptera: Tineidae)	1979	Robinson, Gaden S
+786	The ant tribe Tetramoriini (Hymenoptera: Formicidae). The genus Tetramorium Mayr in the Malagasy region and in the New World	1979-03-29	Bolton, Barry
+787	Additions and corrections to 'A reclassification of the subfamily Agrypninae (Coleoptera:Elateridae)'	1973-05-31	Von Hayek, C M F
+788	A taxonomic revision of the genus Deltophora Janse, 1950 (Lepidoptera: Gelechiidae)	1979-05-31	Sattler, K
+789	Contribution à la faune malacologique de Madagascar	1919	Odhner, Nils H
+790	Results of Dr. E. Mjöberg's Swedish scientific expeditions to Australia, 1910-1913. 19. Isoptera	1920	Mjöberg, Eric
+791	Hemiptera from British East Africa collected by Prof. E. Lonnberg	1920	
+792	New species of the genus Eribotes Stål (Hemiptera: Pentatomidae)	1920	Bergroth, E
+793	Results of Dr E. Mjöberg's Swedish scientific expeditions to Australia 1910–1913. 20. Acridiodea	1920	Sjöstdet, Yngve
+794	Two New Cerambycidae (Coleop.).	1928	Knull, Josef
+795	Thomas Say’s unrecorded journey in Mexico	1928	Barber, H S
+796	The Larva of Olfersia vulturis Van der Wulp (Diptera: Hippoboscidae)	1928	Ferris, G F
+797	A new species of Meloid beetle, with a key to the North American species of the genus Leonidia Cockerell (Coleop.)	1928	
+798	A new Corethrella from Panama (Dipt: Culicidae)	1928	
+799	Two new anthocorids and a new microphysid from Florida (Heteroptera)	1928	Blatchley, W S
+800	A New Species of Batyle (Coleop.: Cerambycidae).	1928	Knull, Josef
+801	Some chilopods and diplopods from Missouri	1928	Chamberlin, R
+802	Aquatic Hemiptera from New Mexico and Georgia, including a new species of Corixidae	1928	
+803	Undescribed species of crane-flies from Chile (Dipt.: Tipulidae	1928	Alexander, C P
+804	A synopsis of the species of Pachycysta (Hemip.: Tingitidae)	1928	
+805	Notes on a few species of Neothomasia from Utah (Homop.: Aphididae)	1928	Knowlton
+806	An additional annotated list of the ants of Mississippi with a description of a new species of Aphaenogaster (Hym.: Formioidae)	1928	
+807	New bees from the Miami region of Florida (Hymen.: Andrenidae, Megachilidae)	1928	
+808	A remarkable new dragon-fly from the Eocene (Odonata)	1928	
+809	A new species of Oedematocera with notes on Schistocercophaga Townsend	1928	Aldrich, J M
+810	Notes on chilopods and diplopods from South-eastern Utah	1928	Chamberlin, R
+811	Description of Two New Species of Acmaeodera (Buprestidae) with Notes on other Coleoptera (Cleridae, Cerambycidae, Platystomidae, Curculionidae).	1928	Knull, Josef
+812	Hancock's Studies of Inheritance in Green and Pink Katydids, Amblycorypha oblongifolia DeGeer (Orthoptera: Tettigoniidae	1929	Nabours
+813	On three new spiders of the genus Oxyopes (Araneina)	1929	Chamberlin, R V
+814	Hoplothrips karnyi Hood (Thysanoptera)	1929	Moulton, Dudley
+815	Descriptions of six new species of Microphylellus (Hemiptera, Miridae)	1929	Knight, H H
+816	Undescribed species of crane-flies from the eastern United States and Canada (Dipt.: Tipulidae). Part V	1929	Alexander, C P
+817	Two new Heteroptera from southern California (Cydnidae, Nabidae)	1929	
+818	Studies in North American spiders: the genus Cochlembolus (Araneina)	1929	Crosby, C R
+819	Additions to the Lists of Buprestidae and Cerambycidae of Pennsylvania (Coleop.)	1929	Nissley, Knull Josef
+820	New species and varieties of Platytylellus from North America (Hemiptera; Miridae)	1929	
+821	Some new Siphonaptera	1929	
+822	Studies in Oxybeline wasps (Sphecidae, Hymen.)	1929	
+823	A remarkable new Chilean genus of grasshoppers (Orthoptera, Cyrtacanthacridinae)	1929	Hebard, Morgan
+824	The North American species of Sarcophaga belonging to the "A" group (Dip., Sarcophagidae)	1929	
+825	Two new Oncideres, with notes on some other Coleoptera	1906	Schaeffer, C
+826	New bees of the genus Colletes	1906	
+827	|Trichogramma pretiosa| Riley: colour variation in the adult, with description of new variety	1906	Girault, A A
+828	The coccid genus Eulecanium	1906	D.a. Cockerell, T
+829	List of Coleoptera in the collection of J.D. Evans, Trenton, Ont., which have not heretofore been recorded as having been taken in Canada	1906	Evans, J
+830	Notes on Culex squamiger, Coq., with description of a closely-allied species	1906	Grossbeck, J A
+831	Collecting notes on Coleoptera	1906	Knaus, W
+832	Two new Homoptera from Africa, and synonymical notes	1906	Kirkaldy, G W
+833	Notes on American Hemiptera	1906	
+834	Four Ochodaeus new to the United States	1906	Schaeffer, C
+835	The snow fly, Chionea valga	1906	Ainslie, C N
+836	A new Cryptine genus from Cuba	1906	Ashmead, W H
+837	An Alaskan mosquito	1906	Ludlow, C S
+838	New Species of Perlidae	1906	Banks
+839	Notes on the classification and nomenclature of the hemipterous superfamily Miroidea	1906	Kirkaldy, G W
+840	The classification of the Culicidae	1906	Williston, S W
+841	Notes on Hemiptera taken by W. J. Palmer, near Lake Temagami, Ont	1906	P., Van Duzee E
+842	Comment On The Proposed Conservation Of Hyla Lactea Daudin, 1803 Z.n.(S.) 2341	1985	Stimson, A F
+843	Comment On The Proposed Designation Of Type Species Of Nymphula Schrank, 1802. Z.n.(S.) 2384	1985	Speidel, W
+844	Comments On The Proposed Conservation Of Laspeyresia Hubner, [1825]. Z.n.(S.) 2421 (1.)	1985	Hodges, R W
+845	Comments On The Proposed Amendment Concerning International Code Of Zoological Nomenclature, Article 51C. Z.n.(S.) 2474 (1.)	1985	Cokendolpher, J C  | Francke, O F  | D, Quintero
+846	Comment On The Proposed Amendment To Article 70B. Z.n.(S.) 2477	1985	Wright, C W
+847	Comment on the proposal concerning Bagrus Bosc, 1816, with requests to place Bagre Cloquet, 1816 on the Official List and to suppress Porcus Geoffroy Saint-Hilaire, 1808 Z.N.(S.) 2371	1985	Taylor, W R
+848	Opinion 1288	1985-04-02	
+849	Opinion 1289. Mesoplodon Gervais, 1850 (Mammalia, Cetacea); conserved	1985-04-02	Melville, R V
+850	Opinion 1290	1985-04-02	
+851	Opinion 1291	1985-04-02	
+852	Opinion 1292	1985-04-02	
+853	Opinion 1293	1985-04-02	
+854	Opinion 1294	1985-04-02	
+855	Opinion 1295	1985-04-02	
+856	Opinion 1296: Request for the use of the planetary powers to conserve Nettastomella Carpenter, 1865 (Bivalvia) refused	1985	Melville, R V
+857	Opinion 1297. Xenocrepis pura Mayr, 1904 designated as type species of Xenocrepis Foerster, 1856 (Insecta, Hymenoptera)	1985	Melville, R V
+858	Direction 116. Papilionidae Latreille,[1802] (Insecta, Lepidoptera): revision of official list entry	1985	Melville, R V
+859	Direction 117. Correction of entry No. 462 in the official list of generic names in zoology concerning Sphaerium Scopoli, 1777 (Mollusca, Bivlavia) (Correction to Opinion 94)	1985	Melville, R V
+860	Spiroglyphus Daudin, 1800 And Stoa De Serres, 1855 (Mollusca, Gastropoda, Vermetidae): Proposed Suppression Of Two Equivocal Generic Names. Z.n.(S.) 2340	1985	Keen, M A  | Hadfield, M G
+861	Carpophaga aurorae peale, 1848 and Serresius galeatus Bonaparte 1855 (AVES): proposed conservation by the suppression of Columba R. Forsteri wagler, 1829. Z. N. (S.) 2277	1985	Bruce, M D  | Holyoak, D T  | Thibault, J C
+862	Humerobates Sellnick, 1928 (Arachnida, Acari): Misidentification Of The Type Species Notaspis Humeralis Hermann, 1804. Z.n.(S.) 2374	1985	Norton, R A
+863	Hatschekia poche, 1902 (Crustacea, Copepoda): proposed conservation by the suppression of pseudoclavella Bassett-smith, 1898 Z. N. (S.) 2390	1985	Jones, J B
+864	The description of new taxa on enzyme data: a matter for discussion. Z. N. (S.) 2458	1985	Jelnes, J E  | Fortuner, R
+865	Authorship And Dates Of The Sowerbys' Mineral Conchology Of Great Britain. Z.n.(S.) 2483	1985	Wright, C W  | Cleevely, R J
+866	Hymenolepis Weinland, 1858 (Cestoda): Proposed Designation Of Type Species. Z.n.(S.) 1156	1985	Melville, R V
+867	Echinococcus Rudolphi, 1801 (Cestoda): Proposed Confirmation Of Entry On The Official List Z.n.(S.) 1157	1985	Melville, R V
+868	Anoplocephala Blanchard, 1848 (Cestoda): proposed confirmation of entry on official list. Z. N. (S.) 2498	1985	Melville, R V
+869	Homonymy In The Families Harpidae Hawle & Corda, 1847 (Trilobita) And Harpaidae Bronn, 1849 (Mollusca; Gastropoda). Z.n.(S.) 2331	1985	Raven, Jgm
+870	Olpium L. Koch, 1873 (Arachnida, Pseudoscorpionida, Olpiidae): proposed designation of type species and related problems. Z. N. (S.) 2484	1985	Harvey, M S  | Mahnert, V
+871	Ichnotropis Peters, 1854 (Reptilia, Sauria): proposed conservation by the suppression of Thermophilus fitzinger, 1843. Z. N. (S.) 2377	1985	Branch, W R  | Broadley, D G
+872	Actia Robineau-Desvoidy, 1830 (Insecta, Diptera): request for designation of type species. Z. N. (S.) 2491	1985	Óhara, J E
+873	Comments on the proposed conservation of Dapsilarthra Foerster, 1862. Replies	1985	Griffiths, Gcd  | Wharton, R  | Van Achterberg, C
+874	Designation of a neotype for Adianthus bucatus Ameghino, 1891 (Mammalia) under the plenary powers: a response. Z.N.(S.)2430	1985	Cifelli, Richard L  | Soria, M F
+875	Comments On The Application Concerning Atractocera latipes	1985	Kerzhner, I M
+876	Opinion 1298	1985-06-27	I C Z N
+877	Opinion 1299	1985-06-27	
+878	Opinion 1300	1985-06-27	
+879	Opinion 1301	1985-06-27	
+880	Opinion 1302	1985-06-27	
+881	Opinion 1303	1985-06-27	
+882	Opinion 1304	1985-06-27	
+883	Opinion 1305	1985-06-27	
+884	Opinion 1306	1985-06-27	
+885	Opinion 1307	1985-06-27	
+886	Opinion 1308	1985-06-27	
+887	Opinion 1309	1985-06-27	
+888	Opinion 1310. Eutermes exitosus Hill, 1925 (insecta, Isoptera): Conserved	1985-06-27	Melville, R V
+889	Opinion 1311	1985-06-27	
+890	Opinion 1312	1985-06-27	
+891	Opinion 1313	1985-06-27	
+892	Opinion 1314	1985-06-27	
+893	Opinion 1315	1985-06-27	
+894	Opinion 1316	1985-06-27	
+895	Opinion 1317	1985-06-27	
+896	Opinion 1318	1985-06-27	
+897	Opinion 1319	1985-06-27	
+898	Opinion 1320: Hydrodamalis Retzius, 1794 and Manatus inunguis Natterer in Pelzeln, 1883 (Mammaha, Sirenia): Conserved	1985	Melville, R V
+899	Opinion 1321	1985-06-27	
+900	Opinion 1322	1985-06-27	
+901	Opinion 1323	1985-06-27	
+902	Opinion 1324	1985-06-27	
+903	Opinion 1325	1985-06-27	
+904	Opinion 1326	1985-06-27	
+905	Opinion 1327	1985-06-27	
+906	Corrections To Three Entries In The Official List Of Family group Names In Zoology: Argynnidae, Apaturidae, Limenitidinae (Insecta, Lepidoptera)	1985	
+907	Rhabditis Nematoda Proposed Completion Of Official List Entry	1985	Melville, R V
+908	Folsomia candida Willem, 1902 (Insecta, Collembola): proposed conservation by the suppression of Entomobrya cavicola Banks, 1897	1985	Bellinger, P F
+909	Comments on the proposed amendment to article 51 c of the code Z. N. (S.) 2474	1985	Ratcliffe, B C  | Vockeroth, J R  | Crosskey, R W
+910	Comment on the proposed conservation of Tibicina Amyot, 1847 and Lyristes Horváth, 1926. Z. N. (S.) 239	1985	Hamilton, Kga  | Boulard, M  | Lauterer, P
+911	Proposed conservation of Aphelinus mytilaspidis Le Baron, 1870: reply to Austin et al. Z. N. (S.) 2320	1985	Rosen, D
+912	Comments on the proposal that the generic name Chromis Cuvier, 1814 (Osteichthyes) should be masculine Z. N. (S.) 2329	1985	Kullander, S O  | Emery, A R
+913	Comment on the proposals to remove the homonymy between Caeciliidae in Amphibia and Insecta (Psocoptera) Z. N. (S.) 2333	1985	Wake, M H
+914	Opinion 1328	1985-09-30	
+915	Opinion 1329: Galago crassicaudatus E. Geoffroy, 1812 (Primates, Galigidae): neotype designated	1985	Melville, R V
+916	Opinion 1330: Prodorylaimus Andrassy, 1959 (Nematoda): type species designated	1985	Melville, R V
+917	Opinion 1331: Sphaeriidae Jeffreys, 1862 (1820) (Mollusca, Bivalvia) and microsporidae Reichardt, 1976 (Insecta, Coleoptera): placed on the official list	1985	Melville, R V
+918	Opinion 1332: Calamoecia australica Sars, 1908 and Calamoecia australis (Searle, 1911) (Crustacea, Copepoda): proposals to remove the confusion rejected	1985	Melville, R V
+919	Opinion 1333	1985-09-30	
+920	Opinion 1334	1985-09-30	
+921	Opinion 1335: Nepa cinerea Linnaeus, 1758 (Insecta, Heteroptera): conserved	1985	Melville, R V
+922	Opinion 1336: five specific names proposed as new for the genus Heterodera A. Schmidt, 1871 (Aschelminthes, Nematoda) by B. A. Cooper, 1955 ruled to be available	1985	Melville, R V
+923	Opinion 1337: Selkirkia columbia Conway Morris, 1977 designated as type species of Selkirkia Walcott, 1911 (Priapulida)	1985	Melville, R V
+924	Opinion 1338: Thrips rufus Haliday, 1836 (Insecta, Thysanoptera): conserved for the type species of Aptinothrips Haliday, 1836	1985	Melville, R V
+925	Opinion 1339: Papilio fatima Fabricius, 1793 (Insecta, Lepidoptera): ruled to be exempt from the application of the principle of homonymy	1985	Melville, R V
+926	Opinion 1340: Attus otiosus Hentz, 1846 (Arachnida, Araneae): conserved	1985	Melville, R V
+927	Opinion 1341: Simulium amazonicum Goeldi, 1905 (Insecta, Diptera): neotype designated	1985	Melville, R V
+928	Opinion 1342: Damalis planiceps Fabricius, 1805 designated as type species of Damalis Fabricius, 1805 (Insecta, Diptera)	1985	Melville, R V
+929	Opinion 1343: Kinosternon alamosae Berry & Legler, 1980 and Kinosternon oaxacae Berry & Iverson, 1980 (Reptilia, Testudines): conserved	1985	Melville, R V
+930	Opinion 1344: Mayorella Schaeffer, 1926 given nomenclatural precedence over Dactylamoeba Korotneff, 1880 (Rhizopods, Amoebida)	1985	Melville, R V
+931	Opinion 1345: Laomedea flexuosa Alder, 1857, Sertulasia volubilis Linnaeus, 1758 and Campanularia johnstoni Alder, 1856 designated as type species of Laomedea Lamouroux, 1812, Campanularia Lamarck, 1816 and Clytia Lamouroux, 1812 (Coelenterata, Hydroida) respectively	1985	Melville, R V
+932	Opinion 1346: Cythereis distinguenda Neviana, 1928, Cythere crispata Brady, 1868 and Cythere pavonia Brady, 1866 (Crustacea, Ostracoda): type material conserved	1985	Melville, R V
+933	Opinion 1347: Anthalia schoenherri Zetterstedt, 1838 designated as type species of Anthalia Zetterstedt, 1838 (Insecta, Diptera)	1985	Melville, R V
+934	Opinion 1348. Bos Gaurus H. Smith, 1827 (Mammalia, Artiodactyla): conserved	1985	Melville, R V
+935	Opinion 1349. Antilope depressicornis H. Smith, 1827 and Anoa quarlesi Ouwens, 1910 (Mammalia, Artiodactyla): Conserved	1985	Melville, R V
+936	Opinion 1350. Conus antiquus Lamarck, 1810 (Mollusca, Gastropoda): neotype suppressed	1985	Melville, R V
+937	Opinion 1351. Galeopsomyia Girault, 1916 (Insecta, Hymenoptera): conserved	1985	Melville, R V
+938	Opinion 1352. Eurhinus Schönherr, 1825 (Insecta, Coleoptera): ruled as a justified emendation of Eurhin Illiger, 1807	1985	Melville, R V
+939	Opinion 1353. Myzus festucae Theobald, 1917 (Insecta, Hemiptera): conserved	1985	Melville, R V
+940	Berytus Fabricius, 1803 (Insecta, Heteroptera, Berytidae): proposed designation of Cimex clavipes Fabricius, 1777 as type species. Z. N. (S) 2464	1985	Dolling, W R
+941	Stenoderma tolteca Saussure, 1860 (Mammalia, Chiroptera): proposed suppression of the neotype and validation of the rediscovered holotype. Z. N. (S.) 2466	1985	De Roguin, L  | Weber, C
+942	Neodorippe Serène & Romimohtarto, 1969 (Crustacea, Decapoda): proposed designation of a type species. Z. N. (S.) 2467	1985	Holthuis, L B  | Manning, R B
+943	Sagartia luciae Verrill, 1898 (Coelenterata, Actiniaria): proposed conservation by the use of the relative precedente procedure. Z. N. (S.) 2363	1985	Seaton, R W
+944	International Commission On Zoological Nomenclature. General Meeting, Budapest, 2-6 September 1985	1985	Jones, Fgw
+945	Comment On The Proposed Amendment To Article 70B: Freedom For An Author To Act Without Reference To The Commission In The Case Of A Misidentified Type Species. Z.n.(S.) 2477	1985	Ride, Wdl
+946	Opinion 1354. Agrotis redimicula Morrison, 1874 (Lepidoptera): conserved from 1874	1985	Melville, R V
+947	Opinion 1355. Lingula anatina Lamarck, 1801 is the type species of Lingula Bruguière,[1797] (Brachiopoda)	1985	Melville, R V
+948	Dactylopusia Norman, 1903 (Crustacea, Copepoda): type species designated	1985	Melville, R V
+949	Opinion 1357	1985-12-06	
+950	Opinion 1358	1985-12-06	
+951	Opinion 1359	1985-12-06	
+952	Opinion 1360	1985-12-06	
+953	Opinion 1361	1985-12-06	
+954	Opinion 1362	1985-12-06	
+955	Opinion 1363	1985-12-06	
+956	Opinion 1365 Allygus Fieber, 1872 (insecta, Homoptera): type species designated	1985-12-06	Melville, R V
+957	Opinion 1366	1985-12-06	
+958	Opinion 1367. Alpheus lottini Guerin, 1829 (Crustacea, Decapoda): conserved	1985-12-06	I C Z N
+959	Opinion 1368	1985-12-06	
+960	Semionotus Agassiz, 1832 (Osteichthyes): proposed designation of Semionotus bergeri Agassiz, 1833 as type species Z. N. (S.) 2434	1985	Mccune, A R
+961	Cephalopholis argus Schneider, 1801 and Cephalopholis sexmaculata (Rüppell, 1830) (Osteichthyes, Serranidae): proposed conservation by suppression of Bodianus guttatus Bloch, 1790, Anthius argus Bloch, 1792 and Serranus zanana Valenciennes, 1828 Z. N. (S.) 2470	1985	Randall, J E  | Bauchot, M L  | Ben-Tuvia, A  | Heemstra, P C
+962	Cheirurus Beyrich, 1845 (Trilobita): proposed designation of Cheirurus insignis Beyrich, 1845 as a type species Z. N. (S.) 2337	1985	Lane, P D
+963	Eugynothrips Priesner, 1926 (Insecta, Thysanoptera): proposed designation of Cryptothrips conocephali Karny, 1913 as type species. Z. N. (S.) 2503	1985	Brothers, D J
+964	Heterogynidae Rambur, 1866 (Insecta, Lepidoptera) and Heterogyninae nagy, 1969 (Insecta, Hymenoptera): proposals to remove the homonymy. Z. N. (S.) 2496	1985	Day, M C
+965	Request for a ruling that french theses submitted for the degree of Docteur du Troisième Cycle are not published Z. N. (S.) 2497	1985	Hewitt, G C  | Rousset, V
+966	Drasterius bimaculatus (Rossi, 1790) (Insecta, Coleoptera, Elateridae): proposed conservation by suppression of Elater bimaculatus Fourcroy, 1785 Z. N. (S.) 2345	1985	Mroczkowski, M
+967	Microchrysa Loew, 1855 (Insecta, Diptera): proposed conservation by the suppression of Chrysomyia Macquart, 1834. Z.N.(S.) 2453	1985	Nartshuk, E P  | Rozkosny, R
+968	Musca trilineata Linnaeus, 1767 (Insecta, Diptera): proposed conservation by the suppression of Musca graeca Pontoppidan, 1763, Z. N. (S.) 2454	1985	Nartshuk, E P  | Rozkosny, R
+969	The family names for the storm petrels and the dippers. Z. N. (S.) 2024	1985	Melville, R V
+970	A new hesperid	1911	
+971	A new American Sitarine beetle	1911	
+972	Mallophaga from Bolivian birds	1911	Kellogg, Vernon Lyman  | Paine, John Howard
+973	The tenth Pleocoma	1911	
+974	Descriptions of new species of Cynipidae	1911	
+975	Studies amongst the Coccinellidae, no. 2	1911	
+976	Mallophaga from Californian birds	1911	Kellogg, Vernon Lyman  | Paine, John Howard
+977	A new chalcidid from an oak gall.	1911	Cockerell, T D A
+978	Notes on Limnobia Parietina O S	1911	Alexander, C P
+979	A new Argynnis and a new Parnassius	1911	
+980	Two new gall midges (Dipt.)	1911	Felt, E P
+981	New American Cleridae, with notes on others	1911	
+982	Three new Brazilian Micro-Lepidoptera	1911	
+983	Endaphis Kieff. in the Americas (Dipt.)	1911	Felt, E P
+984	Some Remarks on Kirby's Synonymic Catalogue of Orthoptera, Vol. III, with Additional Notes on Vols. I and II	1911	Caudell
+985	A new North American moth of the family Psychidae	1911	
+986	Cases of phoresie	1911	Banks, N
+987	The American species of Diatraea Guilding	1911	
+988	A supposed occurrence of |Anagrus incarnatus| Haliday in the United States.	1911	Girault, A A
+989	The occurrence of the mymarid genus |Anaphoidea| in England.	1911	Girault, A
+990	A new Gomphus (Odonata)	1911	Muttkowski, R A
+991	A new species of Gerris	1911	Kirkaldy, G W
+992	Notes on Paraguayan Orthoptera, with descriptions of a new genus and four new species	1911	Rehn, J A G
+993	Arrangement of the species of Dendrocoris Bergr., with the descriptions of two new species	1911	
+994	Some new beetles from North Carolina, with ecological notes (Coleop.)	1911	Charles, D U R Y
+995	Obituary. Dr. Herman Willem van der Weele	1911	Anonymous
+996	Samuel Hubbard Scudder	1911	Skinner, H
+997	A new Datana	1911	
+998	Four new gall midges (Dipt.)	1911	Felt, E P
+999	Notes on Pennsylvania Diptera, with two new species of Syrphidae	1911	Walton, W R
+1000	Notes on a few nymphs of Agrioninae (Order Odonata) of the Hagen collection	1911	Needham, J G

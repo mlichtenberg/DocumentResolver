@@ -1,0 +1,101 @@
+﻿DocumentID	Title	Date	Authors
+5002	Coprophages et Dynastides provenant du voyage de M.F.Colmant dans les régions de l'Uellé du Bomu et du Baher-el-Gazal	1908	J.j.e., Gillet  | H., D'orbigny
+5003	Etudé sur les Buprestides	1908	Théry, A
+5004	Beitrag zur Kenntnis der Cetoniden	1908	Von Moser, J
+5005	On some Australian Homoptera	1908	Distant, W L
+5006	Lettre à la Société Entomologique de Belgique	1908	
+5007	Remarques sur les observations de M. de Lannoy touchant l'existence de Lasius mixtus dans les fourmilières de Lasius fuliginosus	1908	
+5008	Description d'un genre nouveau et de plusieurs formes nouvelles de fourmis du Congo	1908	
+5009	Pselaphides recoltes dans les montagnes des Nilghiris (Presidence de Madras) et dans le district de Belgaum (Presidence de Bombay), Inde anglaise, par MM. H. Leslie Andrewes et H. S. Andrewes	1908	
+5010	Neue Aeschniden	1908	Foerster, F
+5011	Verzeichnis der von H.Fruhstorfer in Tonkin gesammelten Melolonthiden	1908	J., Moser
+5012	Verzeichnis der von H. Fruhstorfer in Tonkin gesammelten Melolonthiden	1908	Moser, J
+5013	Synonymical notes; with a description of a new genus of Thysanoptera	1909	Bagnall, Richard S
+5014	Neue Melolonthiden und Cetoniden	1909	Moser, J
+5015	Diagnoses preliminaires de Pentatomides nouveaux du Congo belge	1908	
+5016	Diagnoses d'espèces nouvelles de Diptères d'Afrique	1908	Bezzi, M
+5017	Notes on the biology of some Queensland flies	1920	Johnston, T H  | Bancroft, M J
+5018	The occurrence in Brisbane River of the New Zealand amphipod, Paracorophium excavatum (G. M. Thomson)	1920	Chilton, C
+5019	New or little-known crane-flies in the Queensland Museum (Tipulidae, Diptera)	1920	Alexander, C P
+5020	Little Penguin in Queensland	1920	Longman, H A
+5021	A New Genus of Fossil Marsupials, Plates IV-VII	1921	Longman, H A
+5022	Australian bees in the Queensland Museum	1921	D.a. Cockerell, T
+5023	Catalogue of Australian bees	1921	Hacker, H
+5024	Notes and illustrations of Queensland fishes. No. 2	1921	Mcculloch, A R
+5025	A new Nyctimene from south Queensland	1921	Longman, H A
+5026	On Coleoptera, mostly from Queensland	1921	Lea, A M
+5027	Notes and illustrations of Queensland fishes, No. 3	1922	Mcculloch, A R
+5028	An Ichthyosaurian Skull from Queensland, Plates XV-XVI	1922	
+5029	Australian bees in the Queensland Museum	1922	D.a. Cockerell, T
+5030	On the emergence of two tube-dwelling homopterous insects	1922	Hacker, H
+5031	Some Australian wasps of the genera Zoyphium and Arpactus	1922	Hacker, H  | D.a. Cockerell, T
+5032	John Gould's Notes for John Gilbert	1922	Longman, H A
+5033	Notes on the Fat-tailed Marsupial Mouse (Sminthopsis crassicaudata)	1922	Alexander, W B
+5034	South Queensland marsupials	1922	Longman, H A
+5035	Three new Queensland fishes	1922	Ogilby, J D
+5036	Kurze Beschreibung neuer Thysanopteren aus Östereich	1920	Priesner, H
+5037	Materials towards a monograph of the genus Citharexylum VI	1959	#moldenke, H N
+5038	Materials towards a monograph of the genus Citharexylum VII	1959	#moldenke, H N
+5039	Additional notes on the genus Citharexylum I	1959	#moldenke, H N
+5040	Notes on Bromeliaceae, XIII	1960	Smith, Lyman B.
+5041	Materials toward a monograph of the genus Avicennia. I	1960	Moldenke, H N
+5042	Notes on Bromeliaceae, XIV	1960	Smith, Lyman B.
+5043	Certamen Melastomataceis VI	1960	Wurdack, J J
+5044	Notes on Bromeliaceae, XV	1960	Smith, Lyman B.
+5045	Materials toward a monograph of the genus Avicennia. III	1960	Moldenke, H N
+5046	Additional notes on the genus Bouchea. III	1961	Moldenke, H N
+5047	Additional notes on the genus Cornutia. I	1961	Moldenke, H N
+5048	Additional notes on the genus Petrea. VI	1961	Moldenke, H N
+5049	Additional notes on the genus Aegiphila. XIV	1961	Moldenke, H N
+5050	Additional notes on the genus Aegiphila. XV	1961	Moldenke, H N
+5051	Fossil insects from the lithographic limenstone of Montsech (late Jurassic-early Cretaceous), Lérida Province, Spain	1985	Whalley, P E S  | Jarzembowski, E A
+5052	Expedition to the Revillagigedo Islands, Mexico, in 1925. General report	1926	Hanna, G Dallas
+5053	Expedition to the Revillagigedo Islands, Mexico, in 1925, II. Miocene marine diatoms from Maria Madre Island, Mexico	1926	Hanna, G Dallas  | Grant, William M
+5054	Expedition to the Revillagigedo Islands, Mexico, in 1925, III. Notes on a collection of reptiles and amphibians from the Tres Marias and Revillagigedo Islands, and the West Coast of Mexico, with description of a new species of Tantilla	1926	Slevin, Joseph Richard
+5055	Expedition to the Revillagigedo Islands, Mexico, in 1925, IV. A Pliocene fauna from Maria Madre Island, Mexico	1926	Jordan, Eric Knight  | Hertlein, Leo George
+5056	Expedition to the Revillagigedo Islands, Mexico, in 1925, V. The Bembicini (Digger Wasps)	1926	Fox, Charles L
+5057	Expedition to Guadalupe Island, Mexico, in 1922 — No.4 Molluscan fauna of the Pleistocene of San Quintin Bay, Lower California	1926	Jordan, Eric Knight
+5058	New sharks from the Temblor group in Kern County, California collected by Charles Morrice	1926	Jordan, David Starr
+5059	The relation of foraminifera to the origin of California petroleum	1926	Stipp, Thomas F
+5060	Sources of material from which petroleum may have been derived	1926	Henderson, Junius
+5061	Expedition to the Revillagigedo islands, Mexico, in 1925, VI. The birds and mammals	1926	Mclellan, Mary E
+5062	The Antirrhinoideae-Antirrhineae of the new world	1926	Munz, Philip A
+5063	Descriptions of seven andrenids in the collection of the California Academy of Sciences	1926	Viereck, Henry L
+5064	Expedition to the Revillagigedo Islands, Mexico, in 1925, VII. Contribution to the geology and paleontology of the Tertiary of Cedros Island and adjacent parts of Lower California	1926	Jordan, Eric Knight  | Hertlein, Leo George
+5065	Expedition to the Revillagigedo Islands, Mexico, in 1925. VII. Land shells of the Revillagigedo and Tres Marias Islands, Mexico	1926	Dall, William Healey
+5066	A critical inspection of the gnatcatchers of the Californias	1926	Grinnell, Joseph
+5067	Report of the President of the Academy for the Year 1926	1927	Grunsky, Charles E
+5068	Report of the director for the year 1926	1927	Evermann, Barton Warren
+5069	Report on the Pycnogonida, dredged by H.M.S. Challenger during the years 1873-76	1881	Hoek, P P C
+5070	Descriptions of fishes from the coast of Natal. (Part 3)	1911	Gilchrist, J D F  | Thompson, W W
+5071	A revised reference list of South African Non-marine Mollusca; with descriptions of new species in the South African Museum	1912	Connolly, M
+5072	The South African Hirudinea. Pt. I	1912	Goddard, E J
+5073	The freshwater fishes of South Africa	1913	Gilchrist, J D F  | Thompson, W W
+5074	The freshwater fishes of South Africa (Continued)	1917	Gilchrist, J D F  | Thompson, W W
+5075	Description of a new fish of the genus Mastacembelus, from the Zambesi System	1918	Boulenger, George A
+5076	Eine neue Noctuiden-Gattung aus Neu-Guinea	1914	
+5077	Zwei neue Arten der japanischen Osmyliden (Megal.)	1914	Okamoto, H
+5078	Sauter's Formosa-Ausbeute. Mydaidae et Asilidae (Dasypogoninae, Laphrinae et Leptogastrinae)	1914	
+5079	Ein neuer Eucnemide aus Peru	1914	
+5080	H. Sauter's Formosa-Ausbeute. Mydaidae et Asilidae (Dasypogoninae, Laphrinae et Leptogastrinae) (Dipt.)	1914	Hermann, F
+5081	Abweichende Farbungen bei einigen palaarktischen Bienen. Eine neue Andrena (A. molhusina nov. spec.)	1914	
+5082	Zwei neue Staphyliniden aus dem palaarktischen Gebiete	1914	
+5083	Neue Cassididen aus Paraguay und Goyaz	1914	
+5084	Beiträge zur Kenntnis der Dynastinen X	1914	Prell, H
+5085	Neue Cassidinen aus Yunnan	1914	
+5086	Sauter's Formosa-Ausbeute. Geometridae	1914	
+5087	Ein neues Blattiden-Genus aus Assam	1914	
+5088	Sauter's Formosa-Ausbeute: Geometridae (Lep.)	1914	
+5089	Borer saccharellus Gn. und drei neue orientalische Pyra lididenformen (Lepid.)	1914	
+5090	Beschreibung neuer Arten und Varietäten der Gattung Batocera (Col.)	1914	Schwarzer, B
+5091	Zwei neue neotropische Calepterygiden	1914	
+5092	Coleoptera von Seram und Bali	1914	Heller, K
+5093	Sauter's Formosa- Ausbeute; Hemiptera Heteroptera I. Aradidae, Pyrrhocoridae, Myodochidae, Tingidae, Reduviidac, Octheridae	1914	
+5094	Two new game birds from Peru	1959	Blake, E R
+5095	Biologie d'une nouvelle espece d'Euglene (Euglena limosa nov. spec)	1919	
+5096	Sur un nouvel epicaride (Ancyroniscus bonnieri, n. g., n. sp.), parasite d'un sphaeromide (Dynamene bidentata Mont.)	1919	Caullery, M  | Mesnil, F
+5097	Notes on snakes from the Yucatan Peninsula	1937	Andrews, E Wyllys
+5098	Fragmente zur Mykologie (V. Mitteilung, Nr. 169 bis 181)	1908	
+5099	Notes on Charina bottae in Utah: reproduction	1939	Tanner, V M  | Tanner, W W
+5100	Toast door den voorzitter uitgebragt aan den maaltijd op het feest van 18 junij 1870	1871	Snellen Van Vollenhoven, S C
+5101	Lijst der Hymenoptera op de algemeene excursie van 19 Junij 1870 in de Wassenaarsche duinen gevangen	1871	Ritsema, C

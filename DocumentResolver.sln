@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentResolver", "DocumentResolver\DocumentResolver.csproj", "{7AE91F63-3D78-4D12-821D-90050A816F66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentResolverGUI", "DocumentResolverGUI\DocumentResolverGUI.csproj", "{C93C0F52-3B20-4D91-843C-7E127BB2A1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentResolverCmd", "DocumentResolverCmd\DocumentResolverCmd.csproj", "{171B7DD6-0364-477B-9393-4D7AE946A285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE91F63-3D78-4D12-821D-90050A816F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE91F63-3D78-4D12-821D-90050A816F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE91F63-3D78-4D12-821D-90050A816F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE91F63-3D78-4D12-821D-90050A816F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93C0F52-3B20-4D91-843C-7E127BB2A1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93C0F52-3B20-4D91-843C-7E127BB2A1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93C0F52-3B20-4D91-843C-7E127BB2A1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93C0F52-3B20-4D91-843C-7E127BB2A1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171B7DD6-0364-477B-9393-4D7AE946A285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171B7DD6-0364-477B-9393-4D7AE946A285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171B7DD6-0364-477B-9393-4D7AE946A285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171B7DD6-0364-477B-9393-4D7AE946A285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
