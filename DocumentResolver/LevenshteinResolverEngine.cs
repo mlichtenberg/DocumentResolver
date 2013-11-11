@@ -25,30 +25,6 @@ namespace MWL.DocumentResolver
                 List<ResolutionResult> results = new List<ResolutionResult>();
                 Levenshtein lv = new Levenshtein();
 
-                /*
-                foreach (KeyValuePair<string, string> kvp in Dictionary)
-                {
-                    string dictionaryItem = kvp.Value;
-
-                    if (useWordStemmer)
-                    {
-                        // Remove noise words and reduce the remaining words to their root forms
-                        Tokeniser tokeniser = new Tokeniser();
-                        document = string.Join(" ", tokeniser.Partition(document, new StopWordsHandler(), true).ToArray());
-                        dictionaryItem = string.Join(" ", tokeniser.Partition(dictionaryItem, new StopWordsHandler(), true).ToArray());
-                    }
-
-                    int score = lv.GetDistance(document, dictionaryItem);
-
-                    // At least something matched
-                    ResolutionResult result = new ResolutionResult();
-                    result.Key = kvp.Key;
-                    result.Document = kvp.Value;
-                    result.Score = score;
-                    results.Add(result);
-                }
-                 */
-
                 if (useWordStemmer)
                 {
                     // Remove noise words and reduce the remaining words to their root forms
